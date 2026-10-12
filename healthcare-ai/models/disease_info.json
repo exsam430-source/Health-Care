@@ -1,0 +1,197 @@
+{
+  "Common Cold": {
+    "specialization": "General Physician",
+    "severity": "Low",
+    "description": "Viral infection of upper respiratory tract"
+  },
+  "Influenza": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Viral infection causing flu symptoms"
+  },
+  "COVID-19": {
+    "specialization": "General Physician",
+    "severity": "High",
+    "description": "Coronavirus infection affecting respiratory system"
+  },
+  "Pneumonia": {
+    "specialization": "General Physician",
+    "severity": "High",
+    "description": "Infection causing inflammation of lungs"
+  },
+  "Bronchitis": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Inflammation of bronchial tubes"
+  },
+  "Asthma": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Chronic respiratory condition"
+  },
+  "Migraine": {
+    "specialization": "Neurologist",
+    "severity": "Medium",
+    "description": "Severe recurring headaches"
+  },
+  "Tension Headache": {
+    "specialization": "Neurologist",
+    "severity": "Low",
+    "description": "Common type of headache"
+  },
+  "Gastritis": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Inflammation of stomach lining"
+  },
+  "Food Poisoning": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Illness from contaminated food"
+  },
+  "Gastroenteritis": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Inflammation of digestive tract"
+  },
+  "Acid Reflux": {
+    "specialization": "General Physician",
+    "severity": "Low",
+    "description": "Stomach acid flowing back into esophagus"
+  },
+  "Hypertension": {
+    "specialization": "Cardiologist",
+    "severity": "High",
+    "description": "High blood pressure"
+  },
+  "Heart Attack": {
+    "specialization": "Cardiologist",
+    "severity": "Critical",
+    "description": "Blocked blood flow to heart"
+  },
+  "Arrhythmia": {
+    "specialization": "Cardiologist",
+    "severity": "High",
+    "description": "Irregular heart rhythm"
+  },
+  "Diabetes": {
+    "specialization": "General Physician",
+    "severity": "High",
+    "description": "High blood sugar levels"
+  },
+  "Hypothyroidism": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Underactive thyroid gland"
+  },
+  "Hyperthyroidism": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Overactive thyroid gland"
+  },
+  "Arthritis": {
+    "specialization": "Orthopedic",
+    "severity": "Medium",
+    "description": "Joint inflammation"
+  },
+  "Back Pain": {
+    "specialization": "Orthopedic",
+    "severity": "Medium",
+    "description": "Pain in lower or upper back"
+  },
+  "Eczema": {
+    "specialization": "Dermatologist",
+    "severity": "Low",
+    "description": "Chronic skin inflammation"
+  },
+  "Psoriasis": {
+    "specialization": "Dermatologist",
+    "severity": "Medium",
+    "description": "Autoimmune skin condition"
+  },
+  "Acne": {
+    "specialization": "Dermatologist",
+    "severity": "Low",
+    "description": "Skin condition with pimples"
+  },
+  "Allergic Rhinitis": {
+    "specialization": "ENT Specialist",
+    "severity": "Low",
+    "description": "Hay fever allergies"
+  },
+  "Sinusitis": {
+    "specialization": "ENT Specialist",
+    "severity": "Medium",
+    "description": "Inflammation of sinuses"
+  },
+  "Tonsillitis": {
+    "specialization": "ENT Specialist",
+    "severity": "Medium",
+    "description": "Inflammation of tonsils"
+  },
+  "Ear Infection": {
+    "specialization": "ENT Specialist",
+    "severity": "Medium",
+    "description": "Infection of middle ear"
+  },
+  "Conjunctivitis": {
+    "specialization": "Ophthalmologist",
+    "severity": "Low",
+    "description": "Pink eye infection"
+  },
+  "Glaucoma": {
+    "specialization": "Ophthalmologist",
+    "severity": "High",
+    "description": "Eye pressure damage"
+  },
+  "Anxiety Disorder": {
+    "specialization": "Psychiatrist",
+    "severity": "Medium",
+    "description": "Excessive worry and fear"
+  },
+  "Depression": {
+    "specialization": "Psychiatrist",
+    "severity": "Medium",
+    "description": "Persistent sadness and loss of interest"
+  },
+  "Insomnia": {
+    "specialization": "Psychiatrist",
+    "severity": "Low",
+    "description": "Chronic sleep disorder"
+  },
+  "UTI": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Urinary tract infection"
+  },
+  "Kidney Stones": {
+    "specialization": "General Physician",
+    "severity": "High",
+    "description": "Hard deposits in kidneys"
+  },
+  "Anemia": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Lack of red blood cells"
+  },
+  "Dengue Fever": {
+    "specialization": "General Physician",
+    "severity": "High",
+    "description": "Mosquito-borne viral infection"
+  },
+  "Malaria": {
+    "specialization": "General Physician",
+    "severity": "High",
+    "description": "Parasitic infection from mosquito"
+  },
+  "Chickenpox": {
+    "specialization": "General Physician",
+    "severity": "Medium",
+    "description": "Viral infection with blisters"
+  },
+  "Measles": {
+    "specialization": "General Physician",
+    "severity": "High",
+    "description": "Highly contagious viral infection"
+  }
+}

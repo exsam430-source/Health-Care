@@ -1,0 +1,902 @@
+{
+  "Fungal infection": {
+    "recommended_tests": [
+      "Skin Scraping Test",
+      "KOH Test",
+      "Fungal Culture"
+    ],
+    "suggested_medicines": [
+      "Clotrimazole",
+      "Fluconazole",
+      "Terbinafine"
+    ],
+    "precautions": [
+      "Keep skin dry",
+      "Avoid sharing personal items",
+      "Wear breathable clothing",
+      "Maintain hygiene"
+    ],
+    "specialist": "Dermatologist",
+    "severity": "Mild",
+    "notes": "Usually responds well to antifungal treatment"
+  },
+  "Allergy": {
+    "recommended_tests": [
+      "Allergy Skin Test",
+      "IgE Blood Test",
+      "CBC"
+    ],
+    "suggested_medicines": [
+      "Cetirizine",
+      "Loratadine",
+      "Fexofenadine"
+    ],
+    "precautions": [
+      "Identify and avoid allergens",
+      "Carry antihistamines",
+      "Wear medical alert bracelet"
+    ],
+    "specialist": "Allergist / Immunologist",
+    "severity": "Mild to Moderate",
+    "notes": "Identify trigger allergens for long-term management"
+  },
+  "GERD": {
+    "recommended_tests": [
+      "Endoscopy",
+      "pH Monitoring",
+      "Esophageal Manometry"
+    ],
+    "suggested_medicines": [
+      "Omeprazole",
+      "Pantoprazole",
+      "Antacids"
+    ],
+    "precautions": [
+      "Avoid spicy food",
+      "Don't lie down after eating",
+      "Eat small meals",
+      "Avoid caffeine and alcohol"
+    ],
+    "specialist": "Gastroenterologist",
+    "severity": "Mild to Moderate",
+    "notes": "Lifestyle modifications are key to management"
+  },
+  "Chronic cholestasis": {
+    "recommended_tests": [
+      "Liver Function Test",
+      "Ultrasound Abdomen",
+      "Bilirubin Test",
+      "ALP Test"
+    ],
+    "suggested_medicines": [
+      "Ursodeoxycholic acid",
+      "Cholestyramine",
+      "Vitamin supplements"
+    ],
+    "precautions": [
+      "Avoid alcohol",
+      "Low fat diet",
+      "Regular liver monitoring"
+    ],
+    "specialist": "Gastroenterologist / Hepatologist",
+    "severity": "Moderate to Severe",
+    "notes": "Regular monitoring of liver function required"
+  },
+  "Drug Reaction": {
+    "recommended_tests": [
+      "Allergy Test",
+      "CBC",
+      "Liver Function Test",
+      "Kidney Function Test"
+    ],
+    "suggested_medicines": [
+      "Antihistamines",
+      "Corticosteroids",
+      "Discontinue causative drug"
+    ],
+    "precautions": [
+      "Stop the causative drug immediately",
+      "Inform all doctors of drug allergies",
+      "Carry allergy ID card"
+    ],
+    "specialist": "Allergist / Dermatologist",
+    "severity": "Moderate to Severe",
+    "notes": "Immediately identify and stop the causative medication"
+  },
+  "Peptic ulcer disease": {
+    "recommended_tests": [
+      "H. pylori Test",
+      "Endoscopy",
+      "Stool Antigen Test",
+      "CBC"
+    ],
+    "suggested_medicines": [
+      "Omeprazole",
+      "Amoxicillin",
+      "Clarithromycin",
+      "Antacids"
+    ],
+    "precautions": [
+      "Avoid NSAIDs",
+      "Quit smoking",
+      "Avoid spicy food",
+      "Reduce alcohol"
+    ],
+    "specialist": "Gastroenterologist",
+    "severity": "Moderate",
+    "notes": "Test for H. pylori infection"
+  },
+  "AIDS": {
+    "recommended_tests": [
+      "HIV Test",
+      "CD4 Count",
+      "Viral Load Test",
+      "Complete Blood Count"
+    ],
+    "suggested_medicines": [
+      "Antiretroviral Therapy (ART)",
+      "Prophylactic antibiotics"
+    ],
+    "precautions": [
+      "Safe sex practices",
+      "Avoid sharing needles",
+      "Regular CD4 monitoring",
+      "Vaccinations"
+    ],
+    "specialist": "Infectious Disease Specialist",
+    "severity": "Severe",
+    "notes": "Requires lifelong antiretroviral therapy"
+  },
+  "Diabetes": {
+    "recommended_tests": [
+      "Fasting Blood Sugar",
+      "HbA1c",
+      "Postprandial Blood Sugar",
+      "Urine Microalbumin",
+      "Lipid Profile"
+    ],
+    "suggested_medicines": [
+      "Metformin",
+      "Insulin",
+      "Glipizide",
+      "Sitagliptin"
+    ],
+    "precautions": [
+      "Monitor blood sugar daily",
+      "Follow diabetic diet",
+      "Regular exercise",
+      "Check feet daily",
+      "Regular eye checkup"
+    ],
+    "specialist": "Endocrinologist / Diabetologist",
+    "severity": "Moderate to Severe",
+    "notes": "Lifestyle management is crucial alongside medication"
+  },
+  "Gastroenteritis": {
+    "recommended_tests": [
+      "Stool Culture",
+      "CBC",
+      "Electrolyte Test",
+      "Stool Microscopy"
+    ],
+    "suggested_medicines": [
+      "ORS (Oral Rehydration Solution)",
+      "Zinc supplements",
+      "Probiotics"
+    ],
+    "precautions": [
+      "Stay hydrated",
+      "Eat bland food (BRAT diet)",
+      "Wash hands frequently",
+      "Avoid dairy temporarily"
+    ],
+    "specialist": "General Physician / Gastroenterologist",
+    "severity": "Mild to Moderate",
+    "notes": "Focus on hydration and electrolyte replacement"
+  },
+  "Bronchial Asthma": {
+    "recommended_tests": [
+      "Spirometry",
+      "Peak Flow Test",
+      "Chest X-Ray",
+      "Allergy Test",
+      "ABG"
+    ],
+    "suggested_medicines": [
+      "Salbutamol Inhaler",
+      "Budesonide Inhaler",
+      "Montelukast",
+      "Ipratropium"
+    ],
+    "precautions": [
+      "Avoid triggers",
+      "Always carry rescue inhaler",
+      "Avoid smoking",
+      "Regular follow-ups"
+    ],
+    "specialist": "Pulmonologist",
+    "severity": "Moderate",
+    "notes": "Identify and avoid personal triggers"
+  },
+  "Hypertension": {
+    "recommended_tests": [
+      "Blood Pressure Monitoring",
+      "ECG",
+      "Kidney Function Test",
+      "Lipid Profile",
+      "Urine Test"
+    ],
+    "suggested_medicines": [
+      "Amlodipine",
+      "Enalapril",
+      "Losartan",
+      "Hydrochlorothiazide"
+    ],
+    "precautions": [
+      "Low sodium diet",
+      "Regular exercise",
+      "Avoid stress",
+      "Limit alcohol",
+      "Monitor BP daily"
+    ],
+    "specialist": "Cardiologist",
+    "severity": "Moderate to Severe",
+    "notes": "Lifestyle modifications equally important as medication"
+  },
+  "Migraine": {
+    "recommended_tests": [
+      "MRI Brain",
+      "CT Scan Head",
+      "Neurological Examination"
+    ],
+    "suggested_medicines": [
+      "Sumatriptan",
+      "Paracetamol",
+      "Ibuprofen",
+      "Propranolol (preventive)"
+    ],
+    "precautions": [
+      "Identify migraine triggers",
+      "Maintain regular sleep schedule",
+      "Avoid bright lights",
+      "Manage stress"
+    ],
+    "specialist": "Neurologist",
+    "severity": "Moderate",
+    "notes": "Keep a headache diary to identify triggers"
+  },
+  "Cervical spondylosis": {
+    "recommended_tests": [
+      "X-Ray Cervical Spine",
+      "MRI Cervical Spine",
+      "CT Myelogram",
+      "Nerve Conduction Study"
+    ],
+    "suggested_medicines": [
+      "Ibuprofen",
+      "Naproxen",
+      "Muscle Relaxants",
+      "Gabapentin"
+    ],
+    "precautions": [
+      "Maintain good posture",
+      "Avoid heavy lifting",
+      "Neck exercises",
+      "Use ergonomic chair"
+    ],
+    "specialist": "Orthopedic / Neurosurgeon",
+    "severity": "Moderate",
+    "notes": "Physical therapy often very effective"
+  },
+  "Paralysis (brain hemorrhage)": {
+    "recommended_tests": [
+      "CT Scan Brain",
+      "MRI Brain",
+      "Cerebral Angiography",
+      "Coagulation Profile"
+    ],
+    "suggested_medicines": [
+      "Anticoagulants",
+      "Blood pressure medications",
+      "Anti-seizure drugs"
+    ],
+    "precautions": [
+      "Emergency medical care required",
+      "Control blood pressure",
+      "Rehabilitation therapy"
+    ],
+    "specialist": "Neurologist / Neurosurgeon",
+    "severity": "Critical",
+    "notes": "EMERGENCY - Requires immediate hospitalization"
+  },
+  "Jaundice": {
+    "recommended_tests": [
+      "Liver Function Test",
+      "Bilirubin Test (Total and Direct)",
+      "Ultrasound Abdomen",
+      "CBC",
+      "Hepatitis Panel"
+    ],
+    "suggested_medicines": [
+      "Treat underlying cause",
+      "Ursodeoxycholic acid"
+    ],
+    "precautions": [
+      "Avoid alcohol completely",
+      "Rest adequately",
+      "Stay hydrated",
+      "Eat easily digestible food"
+    ],
+    "specialist": "Hepatologist / Gastroenterologist",
+    "severity": "Moderate to Severe",
+    "notes": "Treat underlying cause - viral, alcoholic, or obstructive"
+  },
+  "Malaria": {
+    "recommended_tests": [
+      "Blood Smear (Thick and Thin)",
+      "Rapid Diagnostic Test (RDT)",
+      "CBC",
+      "Liver Function Test"
+    ],
+    "suggested_medicines": [
+      "Chloroquine",
+      "Artemether-Lumefantrine",
+      "Primaquine"
+    ],
+    "precautions": [
+      "Use mosquito nets",
+      "Apply insect repellent",
+      "Wear full-sleeved clothes",
+      "Avoid stagnant water areas"
+    ],
+    "specialist": "Infectious Disease Specialist",
+    "severity": "Moderate to Severe",
+    "notes": "Species identification critical for proper treatment"
+  },
+  "Chicken pox": {
+    "recommended_tests": [
+      "Clinical Diagnosis",
+      "Varicella Zoster Virus Test",
+      "CBC"
+    ],
+    "suggested_medicines": [
+      "Acyclovir",
+      "Calamine lotion",
+      "Antihistamines",
+      "Paracetamol"
+    ],
+    "precautions": [
+      "Isolate patient",
+      "Avoid scratching",
+      "Trim fingernails",
+      "Use cool baths"
+    ],
+    "specialist": "General Physician / Infectious Disease",
+    "severity": "Mild to Moderate",
+    "notes": "Highly contagious - isolation required for 5-7 days"
+  },
+  "Dengue": {
+    "recommended_tests": [
+      "NS1 Antigen Test",
+      "Dengue IgM/IgG Antibody",
+      "CBC with Platelet Count",
+      "Hematocrit"
+    ],
+    "suggested_medicines": [
+      "Paracetamol",
+      "IV Fluids",
+      "Platelet transfusion if needed"
+    ],
+    "precautions": [
+      "Avoid aspirin and NSAIDs",
+      "Monitor platelet count",
+      "Stay well hydrated",
+      "Use mosquito protection"
+    ],
+    "specialist": "Infectious Disease / General Medicine",
+    "severity": "Moderate to Severe",
+    "notes": "Avoid NSAIDs - can worsen bleeding"
+  },
+  "Typhoid": {
+    "recommended_tests": [
+      "Widal Test",
+      "Blood Culture",
+      "Stool Culture",
+      "Typhidot Test",
+      "CBC"
+    ],
+    "suggested_medicines": [
+      "Ciprofloxacin",
+      "Azithromycin",
+      "Ceftriaxone"
+    ],
+    "precautions": [
+      "Drink only boiled/filtered water",
+      "Avoid street food",
+      "Hand hygiene",
+      "Complete antibiotic course"
+    ],
+    "specialist": "Infectious Disease / General Medicine",
+    "severity": "Moderate to Severe",
+    "notes": "Complete the full antibiotic course"
+  },
+  "hepatitis A": {
+    "recommended_tests": [
+      "Hepatitis A IgM Antibody",
+      "Liver Function Test",
+      "Bilirubin Test",
+      "CBC"
+    ],
+    "suggested_medicines": [
+      "Supportive care",
+      "Rest",
+      "Adequate nutrition"
+    ],
+    "precautions": [
+      "Hand hygiene",
+      "Avoid alcohol",
+      "Drink safe water",
+      "Vaccination recommended"
+    ],
+    "specialist": "Hepatologist / Gastroenterologist",
+    "severity": "Moderate",
+    "notes": "Usually self-limiting, focus on supportive care"
+  },
+  "Hepatitis B": {
+    "recommended_tests": [
+      "HBsAg Test",
+      "HBV DNA Test",
+      "Liver Function Test",
+      "Liver Biopsy if needed"
+    ],
+    "suggested_medicines": [
+      "Tenofovir",
+      "Entecavir",
+      "Interferon alpha"
+    ],
+    "precautions": [
+      "Avoid alcohol",
+      "Safe sex practices",
+      "Don't share needles",
+      "Vaccinate close contacts"
+    ],
+    "specialist": "Hepatologist",
+    "severity": "Moderate to Severe",
+    "notes": "Can become chronic - requires long-term monitoring"
+  },
+  "Hepatitis C": {
+    "recommended_tests": [
+      "Anti-HCV Antibody",
+      "HCV RNA PCR",
+      "Liver Function Test",
+      "Liver Fibrosis Score"
+    ],
+    "suggested_medicines": [
+      "Sofosbuvir",
+      "Ledipasvir",
+      "Ribavirin"
+    ],
+    "precautions": [
+      "Avoid alcohol",
+      "Don't share needles",
+      "Safe sex practices"
+    ],
+    "specialist": "Hepatologist",
+    "severity": "Moderate to Severe",
+    "notes": "Highly curable with modern direct-acting antivirals"
+  },
+  "Hepatitis D": {
+    "recommended_tests": [
+      "Anti-HDV Antibody",
+      "HDV RNA",
+      "HBsAg",
+      "Liver Function Test"
+    ],
+    "suggested_medicines": [
+      "Pegylated Interferon",
+      "Supportive care"
+    ],
+    "precautions": [
+      "Only occurs with Hepatitis B",
+      "Avoid alcohol",
+      "HBV vaccination helps prevent HDV"
+    ],
+    "specialist": "Hepatologist",
+    "severity": "Severe",
+    "notes": "Only occurs in presence of Hepatitis B infection"
+  },
+  "Hepatitis E": {
+    "recommended_tests": [
+      "HEV IgM Antibody",
+      "HEV RNA",
+      "Liver Function Test",
+      "Bilirubin"
+    ],
+    "suggested_medicines": [
+      "Supportive care",
+      "Ribavirin in severe cases"
+    ],
+    "precautions": [
+      "Safe drinking water",
+      "Proper sanitation",
+      "Avoid raw shellfish",
+      "Hand hygiene"
+    ],
+    "specialist": "Hepatologist / Gastroenterologist",
+    "severity": "Moderate to Severe",
+    "notes": "Usually self-limiting but dangerous in pregnancy"
+  },
+  "Alcoholic hepatitis": {
+    "recommended_tests": [
+      "Liver Function Test",
+      "GGT Level",
+      "Ultrasound Liver",
+      "Biopsy if needed",
+      "CBC"
+    ],
+    "suggested_medicines": [
+      "Prednisolone",
+      "Pentoxifylline",
+      "Nutritional support"
+    ],
+    "precautions": [
+      "STOP alcohol completely",
+      "Nutritional support",
+      "Regular liver monitoring"
+    ],
+    "specialist": "Hepatologist",
+    "severity": "Severe",
+    "notes": "Complete alcohol cessation is mandatory"
+  },
+  "Tuberculosis": {
+    "recommended_tests": [
+      "Sputum AFB Smear",
+      "Sputum Culture",
+      "Chest X-Ray",
+      "Mantoux Test",
+      "GeneXpert MTB/RIF"
+    ],
+    "suggested_medicines": [
+      "Isoniazid",
+      "Rifampicin",
+      "Pyrazinamide",
+      "Ethambutol"
+    ],
+    "precautions": [
+      "Complete full 6-month course",
+      "Wear mask",
+      "Isolate if infectious",
+      "Contact tracing"
+    ],
+    "specialist": "Pulmonologist / Chest Physician",
+    "severity": "Severe",
+    "notes": "DOTS therapy - must complete full course"
+  },
+  "Common Cold": {
+    "recommended_tests": [
+      "Clinical Diagnosis",
+      "Throat Swab if needed"
+    ],
+    "suggested_medicines": [
+      "Paracetamol",
+      "Antihistamines",
+      "Decongestants",
+      "Cough syrup"
+    ],
+    "precautions": [
+      "Rest adequately",
+      "Stay hydrated",
+      "Hand hygiene",
+      "Avoid close contact with others"
+    ],
+    "specialist": "General Physician",
+    "severity": "Mild",
+    "notes": "Self-limiting - antibiotics NOT needed"
+  },
+  "Pneumonia": {
+    "recommended_tests": [
+      "Chest X-Ray",
+      "CBC",
+      "Sputum Culture",
+      "Blood Culture",
+      "Pulse Oximetry"
+    ],
+    "suggested_medicines": [
+      "Amoxicillin",
+      "Azithromycin",
+      "Ceftriaxone",
+      "Oxygen if needed"
+    ],
+    "precautions": [
+      "Complete antibiotic course",
+      "Adequate rest",
+      "Stay hydrated",
+      "Vaccination (Pneumococcal)"
+    ],
+    "specialist": "Pulmonologist / General Medicine",
+    "severity": "Moderate to Severe",
+    "notes": "Monitor oxygen saturation closely"
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "recommended_tests": [
+      "Proctoscopy",
+      "Colonoscopy if needed",
+      "Stool Test for Occult Blood"
+    ],
+    "suggested_medicines": [
+      "Sitz baths",
+      "Topical creams (Hydrocortisone)",
+      "Fiber supplements",
+      "Stool softeners"
+    ],
+    "precautions": [
+      "High fiber diet",
+      "Drink plenty of water",
+      "Avoid straining",
+      "Exercise regularly"
+    ],
+    "specialist": "Proctologist / Gastroenterologist",
+    "severity": "Mild to Moderate",
+    "notes": "Diet modification often resolves mild cases"
+  },
+  "Heart attack": {
+    "recommended_tests": [
+      "ECG",
+      "Troponin Test",
+      "CK-MB",
+      "Echocardiogram",
+      "Coronary Angiography"
+    ],
+    "suggested_medicines": [
+      "Aspirin",
+      "Thrombolytics",
+      "Beta-blockers",
+      "Statins",
+      "ACE Inhibitors"
+    ],
+    "precautions": [
+      "EMERGENCY - Call ambulance immediately",
+      "Chew aspirin if available",
+      "Do not drive yourself",
+      "Stay calm"
+    ],
+    "specialist": "Cardiologist",
+    "severity": "Critical",
+    "notes": "MEDICAL EMERGENCY - Every minute counts"
+  },
+  "Varicose veins": {
+    "recommended_tests": [
+      "Doppler Ultrasound",
+      "Venography if needed"
+    ],
+    "suggested_medicines": [
+      "Compression stockings",
+      "Sclerotherapy",
+      "Diosmin"
+    ],
+    "precautions": [
+      "Elevate legs frequently",
+      "Avoid standing for long periods",
+      "Regular walking",
+      "Wear compression stockings"
+    ],
+    "specialist": "Vascular Surgeon",
+    "severity": "Mild to Moderate",
+    "notes": "Compression stockings are first-line treatment"
+  },
+  "Hypothyroidism": {
+    "recommended_tests": [
+      "TSH Test",
+      "T3 and T4 Levels",
+      "Thyroid Antibodies",
+      "Thyroid Ultrasound"
+    ],
+    "suggested_medicines": [
+      "Levothyroxine"
+    ],
+    "precautions": [
+      "Take medication on empty stomach",
+      "Regular TSH monitoring",
+      "Avoid calcium/iron near medication time"
+    ],
+    "specialist": "Endocrinologist",
+    "severity": "Moderate",
+    "notes": "Lifelong medication usually required"
+  },
+  "Hyperthyroidism": {
+    "recommended_tests": [
+      "TSH Test",
+      "T3 T4 Levels",
+      "Thyroid Scan",
+      "Radioactive Iodine Uptake"
+    ],
+    "suggested_medicines": [
+      "Methimazole",
+      "Propylthiouracil",
+      "Beta-blockers",
+      "Radioactive Iodine"
+    ],
+    "precautions": [
+      "Avoid iodine-rich foods",
+      "Monitor heart rate",
+      "Regular thyroid function tests"
+    ],
+    "specialist": "Endocrinologist",
+    "severity": "Moderate",
+    "notes": "Treatment choice depends on underlying cause"
+  },
+  "Hypoglycemia": {
+    "recommended_tests": [
+      "Fasting Blood Sugar",
+      "Insulin Level",
+      "C-Peptide Test",
+      "HbA1c"
+    ],
+    "suggested_medicines": [
+      "Dextrose (IV for severe cases)",
+      "Glucagon injection",
+      "Glucose tablets"
+    ],
+    "precautions": [
+      "Always carry glucose tablets",
+      "Eat regular meals",
+      "Monitor blood sugar",
+      "Inform family about condition"
+    ],
+    "specialist": "Endocrinologist / Diabetologist",
+    "severity": "Moderate to Severe",
+    "notes": "Immediate glucose intake required for acute episodes"
+  },
+  "Osteoarthritis": {
+    "recommended_tests": [
+      "X-Ray of affected joints",
+      "MRI if needed",
+      "Synovial Fluid Analysis"
+    ],
+    "suggested_medicines": [
+      "Paracetamol",
+      "NSAIDs",
+      "Topical Diclofenac",
+      "Glucosamine"
+    ],
+    "precautions": [
+      "Weight management",
+      "Low-impact exercise",
+      "Joint protection",
+      "Physiotherapy"
+    ],
+    "specialist": "Orthopedic Surgeon / Rheumatologist",
+    "severity": "Moderate",
+    "notes": "Exercise and weight loss significantly help"
+  },
+  "Arthritis": {
+    "recommended_tests": [
+      "Rheumatoid Factor",
+      "Anti-CCP Antibody",
+      "ESR",
+      "CRP",
+      "X-Ray Joints"
+    ],
+    "suggested_medicines": [
+      "NSAIDs",
+      "Methotrexate",
+      "Hydroxychloroquine",
+      "Prednisolone"
+    ],
+    "precautions": [
+      "Regular exercise",
+      "Hot/cold therapy",
+      "Joint protection",
+      "Avoid triggers"
+    ],
+    "specialist": "Rheumatologist",
+    "severity": "Moderate",
+    "notes": "Early treatment prevents joint damage"
+  },
+  "(vertigo) Paroymsal Positional Vertigo": {
+    "recommended_tests": [
+      "Dix-Hallpike Test",
+      "Audiometry",
+      "MRI Brain",
+      "Videonystagmography"
+    ],
+    "suggested_medicines": [
+      "Epley Maneuver",
+      "Betahistine",
+      "Meclizine",
+      "Dimenhydrinate"
+    ],
+    "precautions": [
+      "Move slowly from lying to sitting",
+      "Avoid sudden head movements",
+      "Use walking aid if needed"
+    ],
+    "specialist": "ENT Specialist / Neurologist",
+    "severity": "Mild to Moderate",
+    "notes": "Epley maneuver often provides immediate relief"
+  },
+  "Acne": {
+    "recommended_tests": [
+      "Clinical Diagnosis",
+      "Hormonal Profile if indicated"
+    ],
+    "suggested_medicines": [
+      "Benzoyl Peroxide",
+      "Adapalene",
+      "Doxycycline",
+      "Isotretinoin for severe cases"
+    ],
+    "precautions": [
+      "Gentle face washing",
+      "Non-comedogenic products",
+      "Avoid touching face",
+      "Sun protection"
+    ],
+    "specialist": "Dermatologist",
+    "severity": "Mild to Moderate",
+    "notes": "Consistency in skincare routine is key"
+  },
+  "Urinary tract infection": {
+    "recommended_tests": [
+      "Urine Routine and Microscopy",
+      "Urine Culture and Sensitivity",
+      "Ultrasound KUB"
+    ],
+    "suggested_medicines": [
+      "Nitrofurantoin",
+      "Trimethoprim-Sulfamethoxazole",
+      "Ciprofloxacin"
+    ],
+    "precautions": [
+      "Drink plenty of water",
+      "Urinate frequently",
+      "Wipe front to back",
+      "Avoid holding urine"
+    ],
+    "specialist": "Urologist / General Physician",
+    "severity": "Mild to Moderate",
+    "notes": "Culture-guided antibiotic therapy is preferred"
+  },
+  "Psoriasis": {
+    "recommended_tests": [
+      "Clinical Diagnosis",
+      "Skin Biopsy",
+      "Joint X-Ray if arthritis suspected"
+    ],
+    "suggested_medicines": [
+      "Topical Corticosteroids",
+      "Vitamin D analogues",
+      "Methotrexate",
+      "Biologics for severe cases"
+    ],
+    "precautions": [
+      "Moisturize regularly",
+      "Avoid triggers (stress, infections)",
+      "Sun exposure in moderation",
+      "Avoid harsh soaps"
+    ],
+    "specialist": "Dermatologist",
+    "severity": "Moderate",
+    "notes": "Chronic condition requiring long-term management"
+  },
+  "Impetigo": {
+    "recommended_tests": [
+      "Clinical Diagnosis",
+      "Wound Swab Culture"
+    ],
+    "suggested_medicines": [
+      "Mupirocin ointment",
+      "Fusidic acid",
+      "Oral Amoxicillin if severe"
+    ],
+    "precautions": [
+      "Keep lesions covered",
+      "Wash hands frequently",
+      "Don't share towels",
+      "Isolate child from school"
+    ],
+    "specialist": "Dermatologist / General Physician",
+    "severity": "Mild",
+    "notes": "Very contagious - avoid skin-to-skin contact"
+  }
+}

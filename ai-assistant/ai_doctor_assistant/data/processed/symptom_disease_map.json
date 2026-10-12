@@ -1,0 +1,5299 @@
+{
+  "Fungal infection": [
+    {
+      "symptom": "itching",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "dischromic_patches",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "anxiety",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "restlessness",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_of_stomach",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "pain_in_anal_region",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "excessive_hunger",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_weakness",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "unsteadiness",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "bladder_discomfort",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "continuous_feel_of_urine",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "history_of_alcohol_consumption",
+      "frequency_percent": 5.6,
+      "count": 1
+    }
+  ],
+  "Allergy": [
+    {
+      "symptom": "continuous_sneezing",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "shivering",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "chills",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "runny_nose",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "watering_from_eyes",
+      "frequency_percent": 88.9,
+      "count": 16
+    },
+    {
+      "symptom": "ulcers_on_tongue",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "mood_swings",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "acute_liver_failure",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "internal_itching",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "altered_sensorium",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "family_history",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "lack_of_concentration",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "coma",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 5.6,
+      "count": 1
+    }
+  ],
+  "GERD": [
+    {
+      "symptom": "stomach_pain",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "acidity",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "ulcers_on_tongue",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 85.7,
+      "count": 18
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 85.7,
+      "count": 18
+    },
+    {
+      "symptom": "visual_disturbances",
+      "frequency_percent": 9.5,
+      "count": 2
+    },
+    {
+      "symptom": "restlessness",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "indigestion",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "throat_irritation",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "runny_nose",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_legs",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "spinning_movements",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "altered_sensorium",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "red_spots_over_body",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "watering_from_eyes",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "family_history",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "skin_peeling",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "silver_like_dusting",
+      "frequency_percent": 4.8,
+      "count": 1
+    }
+  ],
+  "Chronic cholestasis": [
+    {
+      "symptom": "itching",
+      "frequency_percent": 100.0,
+      "count": 17
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 17
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 94.1,
+      "count": 16
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 94.1,
+      "count": 16
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 94.1,
+      "count": 16
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 94.1,
+      "count": 16
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 88.2,
+      "count": 15
+    },
+    {
+      "symptom": "muscle_wasting",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "weight_gain",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "lethargy",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "patches_in_throat",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "bruising",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_weakness",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "unsteadiness",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "altered_sensorium",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "prominent_veins_on_calf",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "pus_filled_pimples",
+      "frequency_percent": 5.9,
+      "count": 1
+    }
+  ],
+  "Drug Reaction": [
+    {
+      "symptom": "itching",
+      "frequency_percent": 100.0,
+      "count": 25
+    },
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 100.0,
+      "count": 25
+    },
+    {
+      "symptom": "stomach_pain",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "burning_micturition",
+      "frequency_percent": 92.0,
+      "count": 23
+    },
+    {
+      "symptom": "continuous_sneezing",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "ulcers_on_tongue",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "mood_swings",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "dehydration",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "brittle_nails",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "extra_marital_contacts",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "drying_and_tingling_lips",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_joints",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_pain",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "dischromic_patches",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "lack_of_concentration",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "skin_peeling",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "inflammatory_nails",
+      "frequency_percent": 4.0,
+      "count": 1
+    }
+  ],
+  "Peptic ulcer disease": [
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 25
+    },
+    {
+      "symptom": "indigestion",
+      "frequency_percent": 100.0,
+      "count": 25
+    },
+    {
+      "symptom": "passage_of_gases",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "internal_itching",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 92.0,
+      "count": 23
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 88.0,
+      "count": 22
+    },
+    {
+      "symptom": "chills",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "stomach_pain",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "lethargy",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "patches_in_throat",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "irregular_sugar_level",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "swelled_lymph_nodes",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "throat_irritation",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_in_limbs",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "bruising",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "extra_marital_contacts",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_weakness",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_balance",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "watering_from_eyes",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "skin_peeling",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "red_sore_around_nose",
+      "frequency_percent": 4.0,
+      "count": 1
+    }
+  ],
+  "AIDS": [
+    {
+      "symptom": "muscle_wasting",
+      "frequency_percent": 100.0,
+      "count": 20
+    },
+    {
+      "symptom": "patches_in_throat",
+      "frequency_percent": 100.0,
+      "count": 20
+    },
+    {
+      "symptom": "extra_marital_contacts",
+      "frequency_percent": 100.0,
+      "count": 20
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 95.0,
+      "count": 19
+    },
+    {
+      "symptom": "weight_loss",
+      "frequency_percent": 95.0,
+      "count": 19
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 95.0,
+      "count": 19
+    },
+    {
+      "symptom": "cold_hands_and_feets",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "lethargy",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "pain_behind_the_eyes",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "brittle_nails",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_balance",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "silver_like_dusting",
+      "frequency_percent": 5.0,
+      "count": 1
+    },
+    {
+      "symptom": "small_dents_in_nails",
+      "frequency_percent": 5.0,
+      "count": 1
+    }
+  ],
+  "Diabetes": [
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 29
+    },
+    {
+      "symptom": "weight_loss",
+      "frequency_percent": 100.0,
+      "count": 29
+    },
+    {
+      "symptom": "irregular_sugar_level",
+      "frequency_percent": 100.0,
+      "count": 29
+    },
+    {
+      "symptom": "restlessness",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "obesity",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "excessive_hunger",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "increased_appetite",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "polyuria",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "lethargy",
+      "frequency_percent": 89.7,
+      "count": 26
+    },
+    {
+      "symptom": "itching",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "continuous_sneezing",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "passage_of_gases",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "internal_itching",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "altered_sensorium",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "watering_from_eyes",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "blood_in_sputum",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "silver_like_dusting",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "blister",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "red_sore_around_nose",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_crust_ooze",
+      "frequency_percent": 3.4,
+      "count": 1
+    }
+  ],
+  "Gastroenteritis": [
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "dehydration",
+      "frequency_percent": 85.7,
+      "count": 18
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 76.2,
+      "count": 16
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_wasting",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "patches_in_throat",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "constipation",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "congestion",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "irritation_in_anus",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "neck_pain",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "bruising",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "excessive_hunger",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_of_one_body_side",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_smell",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "rusty_sputum",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "inflammatory_nails",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "blister",
+      "frequency_percent": 4.8,
+      "count": 1
+    }
+  ],
+  "Bronchial Asthma": [
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 22
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 100.0,
+      "count": 22
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 95.5,
+      "count": 21
+    },
+    {
+      "symptom": "mucoid_sputum",
+      "frequency_percent": 95.5,
+      "count": 21
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 90.9,
+      "count": 20
+    },
+    {
+      "symptom": "family_history",
+      "frequency_percent": 86.4,
+      "count": 19
+    },
+    {
+      "symptom": "shivering",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "acidity",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_wasting",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "weight_loss",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "mild_fever",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "acute_liver_failure",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "congestion",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "neck_pain",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_legs",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_smell",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "internal_itching",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "skin_peeling",
+      "frequency_percent": 4.5,
+      "count": 1
+    },
+    {
+      "symptom": "inflammatory_nails",
+      "frequency_percent": 4.5,
+      "count": 1
+    }
+  ],
+  "Hypertension": [
+    {
+      "symptom": "headache",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "lack_of_concentration",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 88.9,
+      "count": 16
+    },
+    {
+      "symptom": "loss_of_balance",
+      "frequency_percent": 77.8,
+      "count": 14
+    },
+    {
+      "symptom": "chills",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "joint_pain",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "patches_in_throat",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "dark_urine",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "constipation",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "puffy_face_and_eyes",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "foul_smell_of_urine",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "rusty_sputum",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "blood_in_sputum",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 5.6,
+      "count": 1
+    }
+  ],
+  "Migraine": [
+    {
+      "symptom": "acidity",
+      "frequency_percent": 100.0,
+      "count": 27
+    },
+    {
+      "symptom": "indigestion",
+      "frequency_percent": 100.0,
+      "count": 27
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 96.3,
+      "count": 26
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 96.3,
+      "count": 26
+    },
+    {
+      "symptom": "excessive_hunger",
+      "frequency_percent": 96.3,
+      "count": 26
+    },
+    {
+      "symptom": "stiff_neck",
+      "frequency_percent": 96.3,
+      "count": 26
+    },
+    {
+      "symptom": "depression",
+      "frequency_percent": 96.3,
+      "count": 26
+    },
+    {
+      "symptom": "visual_disturbances",
+      "frequency_percent": 96.3,
+      "count": 26
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 92.6,
+      "count": 25
+    },
+    {
+      "symptom": "muscle_wasting",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "anxiety",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "dehydration",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "acute_liver_failure",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "irritation_in_anus",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_extremeties",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_balance",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "passage_of_gases",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "abnormal_menstruation",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "mucoid_sputum",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "rusty_sputum",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "coma",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "skin_peeling",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "blister",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "red_sore_around_nose",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_crust_ooze",
+      "frequency_percent": 3.7,
+      "count": 1
+    }
+  ],
+  "Cervical spondylosis": [
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 100.0,
+      "count": 19
+    },
+    {
+      "symptom": "weakness_in_limbs",
+      "frequency_percent": 100.0,
+      "count": 19
+    },
+    {
+      "symptom": "neck_pain",
+      "frequency_percent": 94.7,
+      "count": 18
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 94.7,
+      "count": 18
+    },
+    {
+      "symptom": "loss_of_balance",
+      "frequency_percent": 84.2,
+      "count": 16
+    },
+    {
+      "symptom": "acidity",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "anxiety",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_of_stomach",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "redness_of_eyes",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "pain_in_anal_region",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "slurred_speech",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "red_spots_over_body",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "visual_disturbances",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "prominent_veins_on_calf",
+      "frequency_percent": 5.3,
+      "count": 1
+    },
+    {
+      "symptom": "silver_like_dusting",
+      "frequency_percent": 5.3,
+      "count": 1
+    }
+  ],
+  "Paralysis (brain hemorrhage)": [
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "weakness_of_one_body_side",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "altered_sensorium",
+      "frequency_percent": 83.3,
+      "count": 15
+    },
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "stomach_pain",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_wasting",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "irregular_sugar_level",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "drying_and_tingling_lips",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_balance",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "increased_appetite",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "lack_of_concentration",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "visual_disturbances",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "distention_of_abdomen",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "inflammatory_nails",
+      "frequency_percent": 5.6,
+      "count": 1
+    }
+  ],
+  "Jaundice": [
+    {
+      "symptom": "itching",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "weight_loss",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "dark_urine",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "chills",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "constipation",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "acute_liver_failure",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "pain_during_bowel_movements",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "neck_pain",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_balance",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_smell",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "visual_disturbances",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "distention_of_abdomen",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "palpitations",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "small_dents_in_nails",
+      "frequency_percent": 4.8,
+      "count": 1
+    }
+  ],
+  "Malaria": [
+    {
+      "symptom": "chills",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "muscle_pain",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 90.5,
+      "count": 19
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 90.5,
+      "count": 19
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 90.5,
+      "count": 19
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 9.5,
+      "count": 2
+    },
+    {
+      "symptom": "spotting_urination",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "cold_hands_and_feets",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "restlessness",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "extra_marital_contacts",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "stiff_neck",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "unsteadiness",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "family_history",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "coma",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "pus_filled_pimples",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 4.8,
+      "count": 1
+    }
+  ],
+  "Chicken pox": [
+    {
+      "symptom": "itching",
+      "frequency_percent": 100.0,
+      "count": 29
+    },
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 100.0,
+      "count": 29
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 100.0,
+      "count": 29
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "lethargy",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "mild_fever",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "swelled_lymph_nodes",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "red_spots_over_body",
+      "frequency_percent": 96.6,
+      "count": 28
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "shivering",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "chills",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_wasting",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "spotting_urination",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "cold_hands_and_feets",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_of_stomach",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "congestion",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "irritation_in_anus",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "extra_marital_contacts",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "abnormal_menstruation",
+      "frequency_percent": 3.4,
+      "count": 1
+    },
+    {
+      "symptom": "pus_filled_pimples",
+      "frequency_percent": 3.4,
+      "count": 1
+    }
+  ],
+  "Dengue": [
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 100.0,
+      "count": 30
+    },
+    {
+      "symptom": "chills",
+      "frequency_percent": 100.0,
+      "count": 30
+    },
+    {
+      "symptom": "joint_pain",
+      "frequency_percent": 100.0,
+      "count": 30
+    },
+    {
+      "symptom": "pain_behind_the_eyes",
+      "frequency_percent": 100.0,
+      "count": 30
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "muscle_pain",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 93.3,
+      "count": 28
+    },
+    {
+      "symptom": "red_spots_over_body",
+      "frequency_percent": 93.3,
+      "count": 28
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "acidity",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "irregular_sugar_level",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "fluid_overload",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "obesity",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "movement_stiffness",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "spinning_movements",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "unsteadiness",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "internal_itching",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "belly_pain",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "visual_disturbances",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "stomach_bleeding",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "prominent_veins_on_calf",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "pus_filled_pimples",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "inflammatory_nails",
+      "frequency_percent": 3.3,
+      "count": 1
+    }
+  ],
+  "Typhoid": [
+    {
+      "symptom": "chills",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "toxic_look_typhos",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "belly_pain",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 95.8,
+      "count": 23
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 95.8,
+      "count": 23
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 95.8,
+      "count": 23
+    },
+    {
+      "symptom": "constipation",
+      "frequency_percent": 95.8,
+      "count": 23
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 95.8,
+      "count": 23
+    },
+    {
+      "symptom": "itching",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "acidity",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "restlessness",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "indigestion",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "irritation_in_anus",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "obesity",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_blood_vessels",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "slurred_speech",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_of_one_body_side",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_smell",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "red_spots_over_body",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "stomach_bleeding",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "blister",
+      "frequency_percent": 4.2,
+      "count": 1
+    }
+  ],
+  "hepatitis A": [
+    {
+      "symptom": "joint_pain",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "mild_fever",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "muscle_pain",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "dark_urine",
+      "frequency_percent": 91.3,
+      "count": 21
+    },
+    {
+      "symptom": "muscle_wasting",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "mood_swings",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "patches_in_throat",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_in_limbs",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "pain_during_bowel_movements",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "neck_pain",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_extremeties",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "spinning_movements",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "increased_appetite",
+      "frequency_percent": 4.3,
+      "count": 1
+    }
+  ],
+  "Hepatitis B": [
+    {
+      "symptom": "itching",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "lethargy",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "dark_urine",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "receiving_unsterile_injections",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "obesity",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_legs",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "slurred_speech",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "passage_of_gases",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "internal_itching",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "toxic_look_typhos",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_pain",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "red_spots_over_body",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "abnormal_menstruation",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "dischromic_patches",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "pus_filled_pimples",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "skin_peeling",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "blister",
+      "frequency_percent": 5.6,
+      "count": 1
+    }
+  ],
+  "Hepatitis C": [
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 90.5,
+      "count": 19
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 90.5,
+      "count": 19
+    },
+    {
+      "symptom": "family_history",
+      "frequency_percent": 90.5,
+      "count": 19
+    },
+    {
+      "symptom": "irritation_in_anus",
+      "frequency_percent": 9.5,
+      "count": 2
+    },
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "joint_pain",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "restlessness",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "mild_fever",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_of_stomach",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "brittle_nails",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "palpitations",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "blister",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_crust_ooze",
+      "frequency_percent": 4.8,
+      "count": 1
+    }
+  ],
+  "Hepatitis D": [
+    {
+      "symptom": "joint_pain",
+      "frequency_percent": 100.0,
+      "count": 34
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 34
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "dark_urine",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 94.1,
+      "count": 32
+    },
+    {
+      "symptom": "itching",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "ulcers_on_tongue",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "acute_liver_failure",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "fluid_overload",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "runny_nose",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "pain_during_bowel_movements",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "pain_in_anal_region",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "cramps",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "extra_marital_contacts",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "spinning_movements",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_of_one_body_side",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "foul_smell_of_urine",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "internal_itching",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "abnormal_menstruation",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "family_history",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "blister",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "red_sore_around_nose",
+      "frequency_percent": 2.9,
+      "count": 1
+    }
+  ],
+  "Hepatitis E": [
+    {
+      "symptom": "joint_pain",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "dark_urine",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "stomach_bleeding",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "coma",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 92.3,
+      "count": 24
+    },
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "stomach_pain",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "mood_swings",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "pain_behind_the_eyes",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "acute_liver_failure",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "pain_during_bowel_movements",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "neck_pain",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "obesity",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "brittle_nails",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "movement_stiffness",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "toxic_look_typhos",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "polyuria",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "prominent_veins_on_calf",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "skin_peeling",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "silver_like_dusting",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "inflammatory_nails",
+      "frequency_percent": 3.8,
+      "count": 1
+    }
+  ],
+  "Alcoholic hepatitis": [
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 27
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 100.0,
+      "count": 27
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 96.3,
+      "count": 26
+    },
+    {
+      "symptom": "fluid_overload",
+      "frequency_percent": 96.3,
+      "count": 26
+    },
+    {
+      "symptom": "swelling_of_stomach",
+      "frequency_percent": 96.3,
+      "count": 26
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 92.6,
+      "count": 25
+    },
+    {
+      "symptom": "history_of_alcohol_consumption",
+      "frequency_percent": 92.6,
+      "count": 25
+    },
+    {
+      "symptom": "patches_in_throat",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "pain_behind_the_eyes",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "mild_fever",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "swelled_lymph_nodes",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "excessive_hunger",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "extra_marital_contacts",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "movement_stiffness",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_of_one_body_side",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "foul_smell_of_urine",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "altered_sensorium",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "watering_from_eyes",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "mucoid_sputum",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "small_dents_in_nails",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "red_sore_around_nose",
+      "frequency_percent": 3.7,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_crust_ooze",
+      "frequency_percent": 3.7,
+      "count": 1
+    }
+  ],
+  "Tuberculosis": [
+    {
+      "symptom": "chills",
+      "frequency_percent": 100.0,
+      "count": 28
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 28
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 100.0,
+      "count": 28
+    },
+    {
+      "symptom": "blood_in_sputum",
+      "frequency_percent": 100.0,
+      "count": 28
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "weight_loss",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "mild_fever",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "swelled_lymph_nodes",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "rusty_sputum",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "shivering",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "spotting_urination",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "anxiety",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "throat_irritation",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "brittle_nails",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "movement_stiffness",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "internal_itching",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "toxic_look_typhos",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "painful_walking",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "pus_filled_pimples",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "small_dents_in_nails",
+      "frequency_percent": 3.6,
+      "count": 1
+    }
+  ],
+  "Common Cold": [
+    {
+      "symptom": "continuous_sneezing",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "chills",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "redness_of_eyes",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "runny_nose",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 100.0,
+      "count": 26
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "swelled_lymph_nodes",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "throat_irritation",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "congestion",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "loss_of_smell",
+      "frequency_percent": 96.2,
+      "count": 25
+    },
+    {
+      "symptom": "muscle_pain",
+      "frequency_percent": 88.5,
+      "count": 23
+    },
+    {
+      "symptom": "stomach_pain",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_of_stomach",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "bruising",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "slurred_speech",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "foul_smell_of_urine",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "continuous_feel_of_urine",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "belly_pain",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_unsterile_injections",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "painful_walking",
+      "frequency_percent": 3.8,
+      "count": 1
+    },
+    {
+      "symptom": "blister",
+      "frequency_percent": 3.8,
+      "count": 1
+    }
+  ],
+  "Pneumonia": [
+    {
+      "symptom": "chills",
+      "frequency_percent": 100.0,
+      "count": 30
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 30
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 100.0,
+      "count": 30
+    },
+    {
+      "symptom": "rusty_sputum",
+      "frequency_percent": 100.0,
+      "count": 30
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 96.7,
+      "count": 29
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 93.3,
+      "count": 28
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 93.3,
+      "count": 28
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_wasting",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "mood_swings",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "weight_loss",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "constipation",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "cramps",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_legs",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "brittle_nails",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_of_one_body_side",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "passage_of_gases",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "dischromic_patches",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "increased_appetite",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "visual_disturbances",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "history_of_alcohol_consumption",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "blood_in_sputum",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 3.3,
+      "count": 1
+    },
+    {
+      "symptom": "small_dents_in_nails",
+      "frequency_percent": 3.3,
+      "count": 1
+    }
+  ],
+  "Dimorphic hemmorhoids(piles)": [
+    {
+      "symptom": "constipation",
+      "frequency_percent": 100.0,
+      "count": 28
+    },
+    {
+      "symptom": "pain_during_bowel_movements",
+      "frequency_percent": 100.0,
+      "count": 28
+    },
+    {
+      "symptom": "pain_in_anal_region",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 96.4,
+      "count": 27
+    },
+    {
+      "symptom": "irritation_in_anus",
+      "frequency_percent": 92.9,
+      "count": 26
+    },
+    {
+      "symptom": "irregular_sugar_level",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "indigestion",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "mild_fever",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_of_stomach",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "malaise",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "sinus_pressure",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "slurred_speech",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "stiff_neck",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "spinning_movements",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_smell",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "internal_itching",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "altered_sensorium",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "red_spots_over_body",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "increased_appetite",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "distention_of_abdomen",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 3.6,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_crust_ooze",
+      "frequency_percent": 3.6,
+      "count": 1
+    }
+  ],
+  "Heart attack": [
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 17
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 100.0,
+      "count": 17
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 94.1,
+      "count": 16
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 94.1,
+      "count": 16
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 88.2,
+      "count": 15
+    },
+    {
+      "symptom": "irregular_sugar_level",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "pain_during_bowel_movements",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "cramps",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_joints",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "unsteadiness",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "foul_smell_of_urine",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "continuous_feel_of_urine",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "toxic_look_typhos",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "red_spots_over_body",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "stomach_bleeding",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "pus_filled_pimples",
+      "frequency_percent": 5.9,
+      "count": 1
+    }
+  ],
+  "Varicose veins": [
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "cramps",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "bruising",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "swollen_blood_vessels",
+      "frequency_percent": 100.0,
+      "count": 18
+    },
+    {
+      "symptom": "obesity",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "swollen_legs",
+      "frequency_percent": 94.4,
+      "count": 17
+    },
+    {
+      "symptom": "prominent_veins_on_calf",
+      "frequency_percent": 88.9,
+      "count": 16
+    },
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "congestion",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "neck_pain",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "extra_marital_contacts",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_joints",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "red_spots_over_body",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "watering_from_eyes",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "blood_in_sputum",
+      "frequency_percent": 5.6,
+      "count": 1
+    },
+    {
+      "symptom": "silver_like_dusting",
+      "frequency_percent": 5.6,
+      "count": 1
+    }
+  ],
+  "Hypothyroidism": [
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 25
+    },
+    {
+      "symptom": "weight_gain",
+      "frequency_percent": 100.0,
+      "count": 25
+    },
+    {
+      "symptom": "depression",
+      "frequency_percent": 100.0,
+      "count": 25
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 100.0,
+      "count": 25
+    },
+    {
+      "symptom": "cold_hands_and_feets",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "mood_swings",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "puffy_face_and_eyes",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "brittle_nails",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "swollen_extremeties",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "abnormal_menstruation",
+      "frequency_percent": 96.0,
+      "count": 24
+    },
+    {
+      "symptom": "lethargy",
+      "frequency_percent": 92.0,
+      "count": 23
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 92.0,
+      "count": 23
+    },
+    {
+      "symptom": "burning_micturition",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "restlessness",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "dehydration",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "back_pain",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "constipation",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "neck_pain",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "slurred_speech",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_of_one_body_side",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "passage_of_gases",
+      "frequency_percent": 4.0,
+      "count": 1
+    },
+    {
+      "symptom": "polyuria",
+      "frequency_percent": 4.0,
+      "count": 1
+    }
+  ],
+  "Hyperthyroidism": [
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 34
+    },
+    {
+      "symptom": "mood_swings",
+      "frequency_percent": 100.0,
+      "count": 34
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 100.0,
+      "count": 34
+    },
+    {
+      "symptom": "excessive_hunger",
+      "frequency_percent": 100.0,
+      "count": 34
+    },
+    {
+      "symptom": "restlessness",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "muscle_weakness",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "abnormal_menstruation",
+      "frequency_percent": 97.1,
+      "count": 33
+    },
+    {
+      "symptom": "weight_loss",
+      "frequency_percent": 94.1,
+      "count": 32
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 94.1,
+      "count": 32
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 88.2,
+      "count": 30
+    },
+    {
+      "symptom": "itching",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "lethargy",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "patches_in_throat",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "irregular_sugar_level",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "mild_fever",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "acute_liver_failure",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "fluid_overload",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "swelled_lymph_nodes",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_in_limbs",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "pain_in_anal_region",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "drying_and_tingling_lips",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "slurred_speech",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "spinning_movements",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "unsteadiness",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_smell",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "dischromic_patches",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "watering_from_eyes",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "mucoid_sputum",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_blood_transfusion",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "prominent_veins_on_calf",
+      "frequency_percent": 2.9,
+      "count": 1
+    },
+    {
+      "symptom": "inflammatory_nails",
+      "frequency_percent": 2.9,
+      "count": 1
+    }
+  ],
+  "Hypoglycemia": [
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "anxiety",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "cold_hands_and_feets",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "excessive_hunger",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "slurred_speech",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "palpitations",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "blurred_and_distorted_vision",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "continuous_sneezing",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "weight_gain",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "weight_loss",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "dehydration",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "diarrhoea",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "bruising",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_legs",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_weakness",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_joints",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "movement_stiffness",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "family_history",
+      "frequency_percent": 4.8,
+      "count": 1
+    }
+  ],
+  "Osteoarthritis": [
+    {
+      "symptom": "joint_pain",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "neck_pain",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "painful_walking",
+      "frequency_percent": 95.8,
+      "count": 23
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 91.7,
+      "count": 22
+    },
+    {
+      "symptom": "swelling_joints",
+      "frequency_percent": 91.7,
+      "count": 22
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 87.5,
+      "count": 21
+    },
+    {
+      "symptom": "stomach_pain",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "mood_swings",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_of_stomach",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "congestion",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_blood_vessels",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "brittle_nails",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "stiff_neck",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "spinning_movements",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_smell",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "foul_smell_of_urine",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "muscle_pain",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "abnormal_menstruation",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "visual_disturbances",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "skin_peeling",
+      "frequency_percent": 4.2,
+      "count": 1
+    }
+  ],
+  "Arthritis": [
+    {
+      "symptom": "muscle_weakness",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "stiff_neck",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "swelling_joints",
+      "frequency_percent": 100.0,
+      "count": 21
+    },
+    {
+      "symptom": "joint_pain",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "movement_stiffness",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "painful_walking",
+      "frequency_percent": 95.2,
+      "count": 20
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "ulcers_on_tongue",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "irregular_sugar_level",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "sunken_eyes",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "throat_irritation",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "runny_nose",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "puffy_face_and_eyes",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "slurred_speech",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_balance",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "abnormal_menstruation",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "receiving_unsterile_injections",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "palpitations",
+      "frequency_percent": 4.8,
+      "count": 1
+    },
+    {
+      "symptom": "pus_filled_pimples",
+      "frequency_percent": 4.8,
+      "count": 1
+    }
+  ],
+  "(vertigo) Paroymsal Positional Vertigo": [
+    {
+      "symptom": "vomiting",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "headache",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "spinning_movements",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "loss_of_balance",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "unsteadiness",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "chills",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "ulcers_on_tongue",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "cough",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "dehydration",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "yellowish_skin",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "constipation",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "phlegm",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "redness_of_eyes",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "irritation_in_anus",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "dizziness",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "cramps",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "obesity",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_blood_vessels",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "hip_joint_pain",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_joints",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "bladder_discomfort",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "passage_of_gases",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "irritability",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "dischromic_patches",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 4.3,
+      "count": 1
+    }
+  ],
+  "Acne": [
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 100.0,
+      "count": 17
+    },
+    {
+      "symptom": "pus_filled_pimples",
+      "frequency_percent": 100.0,
+      "count": 17
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 88.2,
+      "count": 15
+    },
+    {
+      "symptom": "scurring",
+      "frequency_percent": 88.2,
+      "count": 15
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "ulcers_on_tongue",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_urine",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "redness_of_eyes",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "cramps",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "unsteadiness",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "toxic_look_typhos",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "belly_pain",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "rusty_sputum",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "silver_like_dusting",
+      "frequency_percent": 5.9,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_crust_ooze",
+      "frequency_percent": 5.9,
+      "count": 1
+    }
+  ],
+  "Urinary tract infection": [
+    {
+      "symptom": "burning_micturition",
+      "frequency_percent": 100.0,
+      "count": 15
+    },
+    {
+      "symptom": "bladder_discomfort",
+      "frequency_percent": 100.0,
+      "count": 15
+    },
+    {
+      "symptom": "foul_smell_of_urine",
+      "frequency_percent": 93.3,
+      "count": 14
+    },
+    {
+      "symptom": "continuous_feel_of_urine",
+      "frequency_percent": 86.7,
+      "count": 13
+    },
+    {
+      "symptom": "restlessness",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "yellowing_of_eyes",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_of_stomach",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "chest_pain",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "weakness_in_limbs",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "cramps",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "enlarged_thyroid",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "movement_stiffness",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "belly_pain",
+      "frequency_percent": 6.7,
+      "count": 1
+    },
+    {
+      "symptom": "silver_like_dusting",
+      "frequency_percent": 6.7,
+      "count": 1
+    }
+  ],
+  "Psoriasis": [
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "joint_pain",
+      "frequency_percent": 100.0,
+      "count": 24
+    },
+    {
+      "symptom": "inflammatory_nails",
+      "frequency_percent": 95.8,
+      "count": 23
+    },
+    {
+      "symptom": "skin_peeling",
+      "frequency_percent": 91.7,
+      "count": 22
+    },
+    {
+      "symptom": "silver_like_dusting",
+      "frequency_percent": 91.7,
+      "count": 22
+    },
+    {
+      "symptom": "small_dents_in_nails",
+      "frequency_percent": 83.3,
+      "count": 20
+    },
+    {
+      "symptom": "nodal_skin_eruptions",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "ulcers_on_tongue",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "fatigue",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "weight_loss",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "sweating",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "dark_urine",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "runny_nose",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "congestion",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "irritation_in_anus",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "cramps",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_extremeties",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "knee_pain",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "swelling_joints",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "foul_smell_of_urine",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "altered_sensorium",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "lack_of_concentration",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "blackheads",
+      "frequency_percent": 4.2,
+      "count": 1
+    },
+    {
+      "symptom": "yellow_crust_ooze",
+      "frequency_percent": 4.2,
+      "count": 1
+    }
+  ],
+  "Impetigo": [
+    {
+      "symptom": "skin_rash",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "high_fever",
+      "frequency_percent": 100.0,
+      "count": 23
+    },
+    {
+      "symptom": "blister",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "yellow_crust_ooze",
+      "frequency_percent": 95.7,
+      "count": 22
+    },
+    {
+      "symptom": "red_sore_around_nose",
+      "frequency_percent": 91.3,
+      "count": 21
+    },
+    {
+      "symptom": "shivering",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "breathlessness",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "nausea",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "loss_of_appetite",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "pain_behind_the_eyes",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "abdominal_pain",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "mild_fever",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "redness_of_eyes",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "fast_heart_rate",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "bloody_stool",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "irritation_in_anus",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "swollen_extremeties",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "unsteadiness",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "depression",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "watering_from_eyes",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "family_history",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "lack_of_concentration",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "stomach_bleeding",
+      "frequency_percent": 4.3,
+      "count": 1
+    },
+    {
+      "symptom": "prominent_veins_on_calf",
+      "frequency_percent": 4.3,
+      "count": 1
+    }
+  ]
+}

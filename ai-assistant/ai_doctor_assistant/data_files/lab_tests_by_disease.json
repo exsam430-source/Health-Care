@@ -1,0 +1,340 @@
+{
+  "Fungal infection": {
+    "essential_tests": [
+      {"name": "KOH Preparation Test", "type": "Microscopy", "urgency": "routine", "description": "Detects fungal elements in skin/nail samples"},
+      {"name": "Fungal Culture", "type": "Culture", "urgency": "routine", "description": "Identifies specific fungal species"},
+      {"name": "Skin Scraping Test", "type": "Microscopy", "urgency": "routine", "description": "Examines skin cells for fungal infection"}
+    ],
+    "optional_tests": [
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "routine", "description": "Checks overall health and immune response"},
+      {"name": "Blood Glucose", "type": "Blood", "urgency": "routine", "description": "High glucose increases fungal infection risk"}
+    ],
+    "normal_ranges": {
+      "KOH Preparation Test": "Negative (no fungal elements)",
+      "Fungal Culture": "No growth"
+    }
+  },
+
+  "Allergy": {
+    "essential_tests": [
+      {"name": "Total IgE Level", "type": "Blood", "urgency": "routine", "description": "Elevated in allergic conditions"},
+      {"name": "Specific IgE Allergy Panel", "type": "Blood", "urgency": "routine", "description": "Identifies specific allergens"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "routine", "description": "Checks eosinophil count"}
+    ],
+    "optional_tests": [
+      {"name": "Skin Prick Test", "type": "Skin Test", "urgency": "routine", "description": "Tests reaction to common allergens"},
+      {"name": "Nasal Smear Eosinophils", "type": "Microscopy", "urgency": "routine", "description": "Checks nasal inflammation"}
+    ],
+    "normal_ranges": {
+      "Total IgE Level": "< 100 IU/mL",
+      "Eosinophils": "1-4% of WBC"
+    }
+  },
+
+  "GERD": {
+    "essential_tests": [
+      {"name": "Upper GI Endoscopy", "type": "Endoscopy", "urgency": "routine", "description": "Visualizes esophagus and stomach lining"},
+      {"name": "Esophageal pH Monitoring", "type": "Function Test", "urgency": "routine", "description": "Measures acid levels in esophagus"},
+      {"name": "H. pylori Test", "type": "Blood/Stool", "urgency": "routine", "description": "Detects H. pylori bacteria"}
+    ],
+    "optional_tests": [
+      {"name": "Esophageal Manometry", "type": "Function Test", "urgency": "routine", "description": "Measures esophageal pressure"},
+      {"name": "Barium Swallow X-Ray", "type": "Imaging", "urgency": "routine", "description": "Shows esophagus structure"}
+    ],
+    "normal_ranges": {
+      "Esophageal pH": "> 4.0 (no acid reflux)",
+      "H. pylori": "Negative"
+    }
+  },
+
+  "Diabetes": {
+    "essential_tests": [
+      {"name": "Fasting Blood Glucose", "type": "Blood", "urgency": "urgent", "description": "Blood sugar after 8 hours fasting", "critical_value": "> 126 mg/dL = Diabetes"},
+      {"name": "HbA1c (Glycated Hemoglobin)", "type": "Blood", "urgency": "urgent", "description": "3-month average blood sugar", "critical_value": "> 6.5% = Diabetes"},
+      {"name": "Postprandial Blood Glucose", "type": "Blood", "urgency": "routine", "description": "Blood sugar 2 hours after meal"},
+      {"name": "Urine Glucose & Ketones", "type": "Urine", "urgency": "routine", "description": "Checks sugar and ketones in urine"},
+      {"name": "Urine Microalbumin", "type": "Urine", "urgency": "routine", "description": "Early kidney damage detection"}
+    ],
+    "optional_tests": [
+      {"name": "Lipid Profile", "type": "Blood", "urgency": "routine", "description": "Cholesterol levels (often abnormal in diabetes)"},
+      {"name": "Kidney Function Test", "type": "Blood", "urgency": "routine", "description": "Creatinine and BUN levels"},
+      {"name": "Liver Function Test", "type": "Blood", "urgency": "routine", "description": "Liver health assessment"},
+      {"name": "Thyroid Function Test (TSH)", "type": "Blood", "urgency": "routine", "description": "Thyroid affects blood sugar"},
+      {"name": "C-Peptide", "type": "Blood", "urgency": "routine", "description": "Distinguishes Type 1 from Type 2"}
+    ],
+    "normal_ranges": {
+      "Fasting Blood Glucose": "70-100 mg/dL",
+      "HbA1c": "< 5.7% (Normal), 5.7-6.4% (Prediabetes), > 6.5% (Diabetes)",
+      "Postprandial Blood Glucose": "< 140 mg/dL"
+    }
+  },
+
+  "Malaria": {
+    "essential_tests": [
+      {"name": "Peripheral Blood Smear (Thick & Thin)", "type": "Microscopy", "urgency": "emergency", "description": "Gold standard for malaria diagnosis", "critical_value": "Presence of parasites = Positive"},
+      {"name": "Rapid Diagnostic Test (RDT)", "type": "Rapid Test", "urgency": "emergency", "description": "Quick antigen detection for malaria"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "urgent", "description": "Checks for anemia and platelet drop"}
+    ],
+    "optional_tests": [
+      {"name": "Malaria PCR", "type": "Molecular", "urgency": "routine", "description": "Highly sensitive species identification"},
+      {"name": "Liver Function Test", "type": "Blood", "urgency": "routine", "description": "Malaria can affect liver"},
+      {"name": "Blood Glucose", "type": "Blood", "urgency": "urgent", "description": "Hypoglycemia common in malaria"},
+      {"name": "Serum Creatinine", "type": "Blood", "urgency": "routine", "description": "Kidney function in severe malaria"}
+    ],
+    "normal_ranges": {
+      "Peripheral Blood Smear": "No malaria parasites seen",
+      "RDT": "Negative",
+      "Platelets": "150,000-400,000 /μL"
+    }
+  },
+
+  "Dengue": {
+    "essential_tests": [
+      {"name": "NS1 Antigen Test", "type": "Blood", "urgency": "emergency", "description": "Detects dengue in first 5 days", "critical_value": "Positive = Active dengue"},
+      {"name": "Dengue IgM/IgG Antibody", "type": "Blood", "urgency": "urgent", "description": "Detects dengue after day 5"},
+      {"name": "Complete Blood Count with Platelet", "type": "Blood", "urgency": "emergency", "description": "Platelet count critical in dengue", "critical_value": "< 20,000 = Dangerous"},
+      {"name": "Hematocrit", "type": "Blood", "urgency": "urgent", "description": "Rising hematocrit suggests plasma leakage"}
+    ],
+    "optional_tests": [
+      {"name": "Dengue PCR", "type": "Molecular", "urgency": "routine", "description": "Confirms dengue and identifies serotype"},
+      {"name": "Liver Function Test", "type": "Blood", "urgency": "routine", "description": "Dengue hepatitis assessment"},
+      {"name": "Serum Albumin", "type": "Blood", "urgency": "routine", "description": "Low in severe dengue"}
+    ],
+    "normal_ranges": {
+      "Platelets": "150,000-400,000 /μL",
+      "Hematocrit": "36-50%",
+      "NS1 Antigen": "Negative"
+    }
+  },
+
+  "Typhoid": {
+    "essential_tests": [
+      {"name": "Widal Test", "type": "Blood", "urgency": "urgent", "description": "Antibody test for Salmonella typhi"},
+      {"name": "Blood Culture", "type": "Culture", "urgency": "urgent", "description": "Gold standard — isolates bacteria", "critical_value": "Growth of Salmonella = Confirmed"},
+      {"name": "Typhidot Test", "type": "Blood", "urgency": "urgent", "description": "Rapid IgM/IgG detection"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "routine", "description": "Low WBC common in typhoid"}
+    ],
+    "optional_tests": [
+      {"name": "Stool Culture", "type": "Culture", "urgency": "routine", "description": "Detects bacteria in stool"},
+      {"name": "Urine Culture", "type": "Culture", "urgency": "routine", "description": "Detects bacteria in urine"},
+      {"name": "Liver Function Test", "type": "Blood", "urgency": "routine", "description": "Typhoid can cause hepatitis"}
+    ],
+    "normal_ranges": {
+      "Widal Test": "< 1:80 titre",
+      "Blood Culture": "No growth",
+      "WBC Count": "4,000-11,000 /μL"
+    }
+  },
+
+  "Tuberculosis": {
+    "essential_tests": [
+      {"name": "Sputum AFB Smear", "type": "Microscopy", "urgency": "urgent", "description": "Detects acid-fast bacilli in sputum"},
+      {"name": "Sputum Culture (MGIT)", "type": "Culture", "urgency": "routine", "description": "Grows TB bacteria for confirmation"},
+      {"name": "GeneXpert MTB/RIF", "type": "Molecular", "urgency": "urgent", "description": "Rapid TB + drug resistance detection"},
+      {"name": "Chest X-Ray", "type": "Imaging", "urgency": "urgent", "description": "Shows TB lesions in lungs"},
+      {"name": "Mantoux (Tuberculin Skin Test)", "type": "Skin Test", "urgency": "routine", "description": "TB exposure test"}
+    ],
+    "optional_tests": [
+      {"name": "IGRA (Interferon Gamma Release Assay)", "type": "Blood", "urgency": "routine", "description": "Blood test for TB infection"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "routine", "description": "Anemia common in TB"},
+      {"name": "ESR (Erythrocyte Sedimentation Rate)", "type": "Blood", "urgency": "routine", "description": "Elevated in active TB"}
+    ],
+    "normal_ranges": {
+      "Sputum AFB": "Negative (no bacilli seen)",
+      "Mantoux": "< 10mm induration (non-immunocompromised)",
+      "GeneXpert": "MTB NOT detected"
+    }
+  },
+
+  "Pneumonia": {
+    "essential_tests": [
+      {"name": "Chest X-Ray", "type": "Imaging", "urgency": "urgent", "description": "Shows lung consolidation/infiltrates"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "urgent", "description": "High WBC indicates bacterial infection"},
+      {"name": "Sputum Culture & Sensitivity", "type": "Culture", "urgency": "urgent", "description": "Identifies causative organism"},
+      {"name": "Pulse Oximetry", "type": "Vitals", "urgency": "emergency", "description": "Oxygen saturation", "critical_value": "< 94% requires oxygen therapy"}
+    ],
+    "optional_tests": [
+      {"name": "Blood Culture", "type": "Culture", "urgency": "urgent", "description": "Detects bacteria in blood"},
+      {"name": "CRP (C-Reactive Protein)", "type": "Blood", "urgency": "routine", "description": "Inflammation marker"},
+      {"name": "Procalcitonin", "type": "Blood", "urgency": "routine", "description": "Bacterial infection marker"},
+      {"name": "CT Chest", "type": "Imaging", "urgency": "routine", "description": "Detailed lung imaging"}
+    ],
+    "normal_ranges": {
+      "WBC Count": "4,000-11,000 /μL (elevated in infection)",
+      "Oxygen Saturation": "> 95%",
+      "CRP": "< 10 mg/L"
+    }
+  },
+
+  "Hypertension": {
+    "essential_tests": [
+      {"name": "Blood Pressure Monitoring (24hr)", "type": "Vitals", "urgency": "urgent", "description": "Ambulatory BP monitoring", "critical_value": "> 140/90 = Hypertension"},
+      {"name": "Kidney Function Test", "type": "Blood", "urgency": "urgent", "description": "Creatinine, BUN — kidney affected by HTN"},
+      {"name": "Urine Protein (Microalbumin)", "type": "Urine", "urgency": "routine", "description": "Protein in urine indicates kidney damage"},
+      {"name": "Lipid Profile", "type": "Blood", "urgency": "urgent", "description": "Cholesterol and triglycerides"}
+    ],
+    "optional_tests": [
+      {"name": "ECG (12 Lead)", "type": "Cardiac", "urgency": "urgent", "description": "Left ventricular hypertrophy"},
+      {"name": "Echocardiogram", "type": "Imaging", "urgency": "routine", "description": "Heart structure and function"},
+      {"name": "Fasting Blood Glucose", "type": "Blood", "urgency": "routine", "description": "Diabetes risk with HTN"},
+      {"name": "Fundoscopy", "type": "Eye Exam", "urgency": "routine", "description": "Hypertensive retinopathy"}
+    ],
+    "normal_ranges": {
+      "Blood Pressure": "< 120/80 mmHg",
+      "Creatinine": "0.6-1.2 mg/dL",
+      "LDL Cholesterol": "< 100 mg/dL"
+    }
+  },
+
+  "Hepatitis B": {
+    "essential_tests": [
+      {"name": "HBsAg (Hepatitis B Surface Antigen)", "type": "Blood", "urgency": "urgent", "description": "Main marker of HBV infection", "critical_value": "Positive = Active infection"},
+      {"name": "HBV DNA (Viral Load)", "type": "Molecular", "urgency": "urgent", "description": "Measures virus levels in blood"},
+      {"name": "HBeAg & Anti-HBe", "type": "Blood", "urgency": "routine", "description": "Determines infectivity"},
+      {"name": "Liver Function Test", "type": "Blood", "urgency": "urgent", "description": "ALT, AST — liver damage markers"},
+      {"name": "Liver Ultrasound", "type": "Imaging", "urgency": "routine", "description": "Liver size and texture"}
+    ],
+    "optional_tests": [
+      {"name": "Anti-HBc (Core Antibody)", "type": "Blood", "urgency": "routine", "description": "Past or current HBV exposure"},
+      {"name": "Anti-HBs", "type": "Blood", "urgency": "routine", "description": "Immunity to hepatitis B"},
+      {"name": "FibroScan", "type": "Imaging", "urgency": "routine", "description": "Liver fibrosis assessment"},
+      {"name": "AFP (Alpha-fetoprotein)", "type": "Blood", "urgency": "routine", "description": "Hepatocellular carcinoma screening"}
+    ],
+    "normal_ranges": {
+      "HBsAg": "Negative",
+      "ALT": "7-56 IU/L",
+      "AST": "10-40 IU/L",
+      "HBV DNA": "< 2000 IU/mL (inactive carrier)"
+    }
+  },
+
+  "Heart attack": {
+    "essential_tests": [
+      {"name": "ECG (12 Lead)", "type": "Cardiac", "urgency": "emergency", "description": "ST elevation confirms STEMI", "critical_value": "ST elevation = Call cath lab immediately"},
+      {"name": "Troponin I or T", "type": "Blood", "urgency": "emergency", "description": "Heart muscle damage marker", "critical_value": "Elevated = Heart attack"},
+      {"name": "CK-MB", "type": "Blood", "urgency": "emergency", "description": "Cardiac enzyme released in heart attack"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "urgent", "description": "Baseline blood assessment"},
+      {"name": "Coagulation Profile (PT, APTT)", "type": "Blood", "urgency": "urgent", "description": "Needed before thrombolytics"}
+    ],
+    "optional_tests": [
+      {"name": "Echocardiogram", "type": "Imaging", "urgency": "urgent", "description": "Wall motion abnormality"},
+      {"name": "Coronary Angiography", "type": "Invasive", "urgency": "urgent", "description": "Gold standard for coronary blockage"},
+      {"name": "BNP/NT-proBNP", "type": "Blood", "urgency": "routine", "description": "Heart failure assessment"},
+      {"name": "Lipid Profile", "type": "Blood", "urgency": "routine", "description": "Risk factor assessment"}
+    ],
+    "normal_ranges": {
+      "Troponin I": "< 0.04 ng/mL",
+      "CK-MB": "< 5% of total CK",
+      "ECG": "Normal sinus rhythm, no ST changes"
+    }
+  },
+
+  "Common Cold": {
+    "essential_tests": [
+      {"name": "Clinical Diagnosis", "type": "Clinical", "urgency": "routine", "description": "Usually diagnosed clinically"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "routine", "description": "Rules out bacterial infection"}
+    ],
+    "optional_tests": [
+      {"name": "Throat Swab Culture", "type": "Culture", "urgency": "routine", "description": "Rules out strep throat"},
+      {"name": "Rapid Strep Test", "type": "Rapid Test", "urgency": "routine", "description": "Quick strep throat detection"},
+      {"name": "Nasal Swab (Influenza)", "type": "Rapid Test", "urgency": "routine", "description": "Rules out influenza"}
+    ],
+    "normal_ranges": {
+      "WBC Count": "4,000-11,000 /μL",
+      "Throat Swab": "Normal flora only"
+    }
+  },
+
+  "Urinary tract infection": {
+    "essential_tests": [
+      {"name": "Urine Routine & Microscopy", "type": "Urine", "urgency": "urgent", "description": "Pus cells and bacteria in urine", "critical_value": "> 10 pus cells/hpf = UTI"},
+      {"name": "Urine Culture & Sensitivity", "type": "Culture", "urgency": "urgent", "description": "Identifies bacteria and antibiotic sensitivity"},
+      {"name": "Urine Dipstick", "type": "Urine", "urgency": "routine", "description": "Quick leukocyte and nitrite test"}
+    ],
+    "optional_tests": [
+      {"name": "Ultrasound KUB", "type": "Imaging", "urgency": "routine", "description": "Kidney, ureter, bladder imaging"},
+      {"name": "Serum Creatinine", "type": "Blood", "urgency": "routine", "description": "Kidney function if upper UTI suspected"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "routine", "description": "WBC elevated in pyelonephritis"}
+    ],
+    "normal_ranges": {
+      "Pus Cells": "< 5/hpf",
+      "Urine Culture": "< 10^5 colony forming units/mL",
+      "Nitrite": "Negative"
+    }
+  },
+
+  "Hypothyroidism": {
+    "essential_tests": [
+      {"name": "TSH (Thyroid Stimulating Hormone)", "type": "Blood", "urgency": "urgent", "description": "Primary thyroid screening test", "critical_value": "> 4.5 mIU/L = Hypothyroidism"},
+      {"name": "Free T4 (FT4)", "type": "Blood", "urgency": "urgent", "description": "Active thyroid hormone level"},
+      {"name": "Free T3 (FT3)", "type": "Blood", "urgency": "routine", "description": "Active T3 hormone"}
+    ],
+    "optional_tests": [
+      {"name": "Thyroid Antibodies (Anti-TPO)", "type": "Blood", "urgency": "routine", "description": "Hashimoto's thyroiditis marker"},
+      {"name": "Thyroid Ultrasound", "type": "Imaging", "urgency": "routine", "description": "Thyroid gland structure"},
+      {"name": "Lipid Profile", "type": "Blood", "urgency": "routine", "description": "Cholesterol elevated in hypothyroidism"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "routine", "description": "Anemia can occur with hypothyroidism"}
+    ],
+    "normal_ranges": {
+      "TSH": "0.4-4.5 mIU/L",
+      "Free T4": "0.8-1.8 ng/dL",
+      "Free T3": "2.3-4.2 pg/mL"
+    }
+  },
+
+  "Jaundice": {
+    "essential_tests": [
+      {"name": "Total Bilirubin", "type": "Blood", "urgency": "urgent", "description": "Overall bilirubin level", "critical_value": "> 2.5 mg/dL = Visible jaundice"},
+      {"name": "Direct & Indirect Bilirubin", "type": "Blood", "urgency": "urgent", "description": "Helps determine cause of jaundice"},
+      {"name": "Liver Function Test (ALT, AST, ALP)", "type": "Blood", "urgency": "urgent", "description": "Liver enzyme levels"},
+      {"name": "Hepatitis Panel (A, B, C)", "type": "Blood", "urgency": "urgent", "description": "Rules out viral hepatitis"},
+      {"name": "Ultrasound Abdomen", "type": "Imaging", "urgency": "urgent", "description": "Liver, gallbladder, bile ducts"}
+    ],
+    "optional_tests": [
+      {"name": "PT/INR", "type": "Blood", "urgency": "urgent", "description": "Liver synthetic function"},
+      {"name": "GGT (Gamma GT)", "type": "Blood", "urgency": "routine", "description": "Bile duct disease marker"},
+      {"name": "Urine Bilirubin & Urobilinogen", "type": "Urine", "urgency": "routine", "description": "Helps classify jaundice type"}
+    ],
+    "normal_ranges": {
+      "Total Bilirubin": "0.2-1.2 mg/dL",
+      "Direct Bilirubin": "0.0-0.3 mg/dL",
+      "ALT": "7-56 IU/L"
+    }
+  },
+
+  "Chicken pox": {
+    "essential_tests": [
+      {"name": "Clinical Diagnosis", "type": "Clinical", "urgency": "routine", "description": "Characteristic rash is diagnostic"},
+      {"name": "Varicella Zoster Virus PCR", "type": "Molecular", "urgency": "routine", "description": "Confirms VZV in atypical cases"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "routine", "description": "Lymphocytosis common"}
+    ],
+    "optional_tests": [
+      {"name": "VZV IgM/IgG Antibody", "type": "Blood", "urgency": "routine", "description": "Confirms recent infection"},
+      {"name": "Tzanck Smear", "type": "Microscopy", "urgency": "routine", "description": "Shows multinucleated giant cells"}
+    ],
+    "normal_ranges": {
+      "VZV PCR": "Negative",
+      "VZV IgM": "Negative (non-immune)"
+    }
+  },
+
+  "Bronchial Asthma": {
+    "essential_tests": [
+      {"name": "Spirometry (PFT)", "type": "Function Test", "urgency": "urgent", "description": "FEV1/FVC ratio < 0.7 = Obstruction", "critical_value": "FEV1 < 50% predicted = Severe"},
+      {"name": "Peak Expiratory Flow Rate", "type": "Function Test", "urgency": "urgent", "description": "Airflow limitation measurement"},
+      {"name": "Chest X-Ray", "type": "Imaging", "urgency": "routine", "description": "Rules out other lung pathology"},
+      {"name": "Complete Blood Count", "type": "Blood", "urgency": "routine", "description": "Eosinophilia in allergic asthma"}
+    ],
+    "optional_tests": [
+      {"name": "Total IgE Level", "type": "Blood", "urgency": "routine", "description": "Elevated in allergic asthma"},
+      {"name": "Specific Allergen IgE", "type": "Blood", "urgency": "routine", "description": "Identifies specific triggers"},
+      {"name": "Arterial Blood Gas (ABG)", "type": "Blood", "urgency": "urgent", "description": "Oxygen and CO2 levels in severe attack"},
+      {"name": "FeNO (Exhaled Nitric Oxide)", "type": "Breath Test", "urgency": "routine", "description": "Eosinophilic airway inflammation"}
+    ],
+    "normal_ranges": {
+      "FEV1/FVC": "> 0.7",
+      "Peak Flow": "> 80% predicted",
+      "Eosinophils": "< 4%"
+    }
+  }
+}

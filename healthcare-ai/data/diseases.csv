@@ -1,0 +1,40 @@
+disease_name,symptoms,specialization,severity,description
+Common Cold,"fever,cough,sore_throat,runny_nose,sneezing,headache",General Physician,Low,Viral infection of upper respiratory tract
+Influenza,"fever,cough,muscle_pain,fatigue,headache,sore_throat,chills",General Physician,Medium,Viral infection causing flu symptoms
+COVID-19,"fever,cough,fatigue,shortness_of_breath,loss_of_appetite,muscle_pain,headache",General Physician,High,Coronavirus infection affecting respiratory system
+Pneumonia,"fever,cough,chest_pain,shortness_of_breath,fatigue,sweating,chills",General Physician,High,Infection causing inflammation of lungs
+Bronchitis,"cough,chest_pain,fatigue,shortness_of_breath,sore_throat,fever",General Physician,Medium,Inflammation of bronchial tubes
+Asthma,"shortness_of_breath,wheezing,cough,chest_pain,difficulty_breathing",General Physician,Medium,Chronic respiratory condition
+Migraine,"headache,nausea,vomiting,sensitivity_to_light,dizziness",Neurologist,Medium,Severe recurring headaches
+Tension Headache,"headache,neck_pain,muscle_pain,fatigue",Neurologist,Low,Common type of headache
+Gastritis,"abdominal_pain,nausea,vomiting,loss_of_appetite,bloating",General Physician,Medium,Inflammation of stomach lining
+Food Poisoning,"nausea,vomiting,diarrhea,abdominal_pain,fever,fatigue",General Physician,Medium,Illness from contaminated food
+Gastroenteritis,"diarrhea,nausea,vomiting,abdominal_pain,fever,fatigue",General Physician,Medium,Inflammation of digestive tract
+Acid Reflux,"chest_pain,difficulty_swallowing,sore_throat,cough",General Physician,Low,Stomach acid flowing back into esophagus
+Hypertension,"headache,dizziness,chest_pain,shortness_of_breath,nosebleeds",Cardiologist,High,High blood pressure
+Heart Attack,"chest_pain,shortness_of_breath,sweating,nausea,dizziness",Cardiologist,Critical,Blocked blood flow to heart
+Arrhythmia,"irregular_heartbeat,rapid_heartbeat,chest_pain,dizziness,shortness_of_breath",Cardiologist,High,Irregular heart rhythm
+Diabetes,"fatigue,weight_loss,frequent_urination,blurred_vision,slow_healing",General Physician,High,High blood sugar levels
+Hypothyroidism,"fatigue,weight_gain,depression,muscle_pain,constipation",General Physician,Medium,Underactive thyroid gland
+Hyperthyroidism,"weight_loss,rapid_heartbeat,sweating,anxiety,tremors",General Physician,Medium,Overactive thyroid gland
+Arthritis,"joint_pain,swelling,stiffness,reduced_range_of_motion",Orthopedic,Medium,Joint inflammation
+Back Pain,"back_pain,muscle_pain,stiffness,numbness,tingling",Orthopedic,Medium,Pain in lower or upper back
+Eczema,"rash,itching,dry_skin,redness,swelling",Dermatologist,Low,Chronic skin inflammation
+Psoriasis,"rash,itching,dry_skin,scaling,joint_pain",Dermatologist,Medium,Autoimmune skin condition
+Acne,"rash,inflammation,blackheads,whiteheads",Dermatologist,Low,Skin condition with pimples
+Allergic Rhinitis,"sneezing,runny_nose,itching,watery_eyes",ENT Specialist,Low,Hay fever allergies
+Sinusitis,"headache,facial_pain,runny_nose,cough,fever",ENT Specialist,Medium,Inflammation of sinuses
+Tonsillitis,"sore_throat,difficulty_swallowing,fever,swollen_glands",ENT Specialist,Medium,Inflammation of tonsils
+Ear Infection,"ear_pain,fever,hearing_loss,dizziness",ENT Specialist,Medium,Infection of middle ear
+Conjunctivitis,"red_eyes,itching,discharge,tearing",Ophthalmologist,Low,Pink eye infection
+Glaucoma,"blurred_vision,eye_pain,headache,nausea",Ophthalmologist,High,Eye pressure damage
+Anxiety Disorder,"anxiety,rapid_heartbeat,sweating,tremors,insomnia",Psychiatrist,Medium,Excessive worry and fear
+Depression,"depression,fatigue,loss_of_appetite,insomnia,difficulty_concentrating",Psychiatrist,Medium,Persistent sadness and loss of interest
+Insomnia,"insomnia,fatigue,difficulty_concentrating,irritability",Psychiatrist,Low,Chronic sleep disorder
+UTI,"abdominal_pain,frequent_urination,burning_sensation,fever",General Physician,Medium,Urinary tract infection
+Kidney Stones,"severe_pain,blood_in_urine,nausea,vomiting,fever",General Physician,High,Hard deposits in kidneys
+Anemia,"fatigue,weakness,pale_skin,dizziness,shortness_of_breath",General Physician,Medium,Lack of red blood cells
+Dengue Fever,"fever,severe_headache,muscle_pain,joint_pain,rash,fatigue",General Physician,High,Mosquito-borne viral infection
+Malaria,"fever,chills,sweating,headache,nausea,vomiting,fatigue",General Physician,High,Parasitic infection from mosquito
+Chickenpox,"rash,fever,fatigue,loss_of_appetite,itching",General Physician,Medium,Viral infection with blisters
+Measles,"fever,cough,runny_nose,rash,red_eyes",General Physician,High,Highly contagious viral infection

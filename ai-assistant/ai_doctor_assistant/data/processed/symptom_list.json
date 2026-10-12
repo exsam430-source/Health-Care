@@ -1,0 +1,657 @@
+[
+  {
+    "key": "fatigue",
+    "display": "Fatigue",
+    "frequency": 451
+  },
+  {
+    "key": "vomiting",
+    "display": "Vomiting",
+    "frequency": 398
+  },
+  {
+    "key": "high_fever",
+    "display": "High Fever",
+    "frequency": 269
+  },
+  {
+    "key": "nausea",
+    "display": "Nausea",
+    "frequency": 258
+  },
+  {
+    "key": "loss_of_appetite",
+    "display": "Loss Of Appetite",
+    "frequency": 247
+  },
+  {
+    "key": "headache",
+    "display": "Headache",
+    "frequency": 232
+  },
+  {
+    "key": "abdominal_pain",
+    "display": "Abdominal Pain",
+    "frequency": 211
+  },
+  {
+    "key": "yellowish_skin",
+    "display": "Yellowish Skin",
+    "frequency": 190
+  },
+  {
+    "key": "joint_pain",
+    "display": "Joint Pain",
+    "frequency": 183
+  },
+  {
+    "key": "chills",
+    "display": "Chills",
+    "frequency": 181
+  },
+  {
+    "key": "skin_rash",
+    "display": "Skin Rash",
+    "frequency": 171
+  },
+  {
+    "key": "malaise",
+    "display": "Malaise",
+    "frequency": 162
+  },
+  {
+    "key": "sweating",
+    "display": "Sweating",
+    "frequency": 148
+  },
+  {
+    "key": "yellowing_of_eyes",
+    "display": "Yellowing Of Eyes",
+    "frequency": 139
+  },
+  {
+    "key": "itching",
+    "display": "Itching",
+    "frequency": 132
+  },
+  {
+    "key": "weight_loss",
+    "display": "Weight Loss",
+    "frequency": 131
+  },
+  {
+    "key": "cough",
+    "display": "Cough",
+    "frequency": 129
+  },
+  {
+    "key": "dark_urine",
+    "display": "Dark Urine",
+    "frequency": 120
+  },
+  {
+    "key": "diarrhoea",
+    "display": "Diarrhoea",
+    "frequency": 120
+  },
+  {
+    "key": "chest_pain",
+    "display": "Chest Pain",
+    "frequency": 116
+  },
+  {
+    "key": "excessive_hunger",
+    "display": "Excessive Hunger",
+    "frequency": 112
+  },
+  {
+    "key": "irritability",
+    "display": "Irritability",
+    "frequency": 109
+  },
+  {
+    "key": "breathlessness",
+    "display": "Breathlessness",
+    "frequency": 100
+  },
+  {
+    "key": "lethargy",
+    "display": "Lethargy",
+    "frequency": 99
+  },
+  {
+    "key": "muscle_pain",
+    "display": "Muscle Pain",
+    "frequency": 98
+  },
+  {
+    "key": "phlegm",
+    "display": "Phlegm",
+    "frequency": 92
+  },
+  {
+    "key": "mild_fever",
+    "display": "Mild Fever",
+    "frequency": 83
+  },
+  {
+    "key": "swelled_lymph_nodes",
+    "display": "Swelled Lymph Nodes",
+    "frequency": 83
+  },
+  {
+    "key": "fast_heart_rate",
+    "display": "Fast Heart Rate",
+    "frequency": 82
+  },
+  {
+    "key": "blurred_and_distorted_vision",
+    "display": "Blurred And Distorted Vision",
+    "frequency": 81
+  },
+  {
+    "key": "restlessness",
+    "display": "Restlessness",
+    "frequency": 68
+  },
+  {
+    "key": "dizziness",
+    "display": "Dizziness",
+    "frequency": 65
+  },
+  {
+    "key": "mood_swings",
+    "display": "Mood Swings",
+    "frequency": 64
+  },
+  {
+    "key": "red_spots_over_body",
+    "display": "Red Spots Over Body",
+    "frequency": 63
+  },
+  {
+    "key": "abnormal_menstruation",
+    "display": "Abnormal Menstruation",
+    "frequency": 63
+  },
+  {
+    "key": "rusty_sputum",
+    "display": "Rusty Sputum",
+    "frequency": 61
+  },
+  {
+    "key": "muscle_weakness",
+    "display": "Muscle Weakness",
+    "frequency": 58
+  },
+  {
+    "key": "loss_of_balance",
+    "display": "Loss Of Balance",
+    "frequency": 58
+  },
+  {
+    "key": "constipation",
+    "display": "Constipation",
+    "frequency": 57
+  },
+  {
+    "key": "back_pain",
+    "display": "Back Pain",
+    "frequency": 56
+  },
+  {
+    "key": "indigestion",
+    "display": "Indigestion",
+    "frequency": 55
+  },
+  {
+    "key": "acidity",
+    "display": "Acidity",
+    "frequency": 52
+  },
+  {
+    "key": "depression",
+    "display": "Depression",
+    "frequency": 52
+  },
+  {
+    "key": "stomach_pain",
+    "display": "Stomach Pain",
+    "frequency": 50
+  },
+  {
+    "key": "obesity",
+    "display": "Obesity",
+    "frequency": 50
+  },
+  {
+    "key": "stiff_neck",
+    "display": "Stiff Neck",
+    "frequency": 50
+  },
+  {
+    "key": "neck_pain",
+    "display": "Neck Pain",
+    "frequency": 49
+  },
+  {
+    "key": "swelling_joints",
+    "display": "Swelling Joints",
+    "frequency": 49
+  },
+  {
+    "key": "cold_hands_and_feets",
+    "display": "Cold Hands And Feets",
+    "frequency": 48
+  },
+  {
+    "key": "continuous_sneezing",
+    "display": "Continuous Sneezing",
+    "frequency": 47
+  },
+  {
+    "key": "runny_nose",
+    "display": "Runny Nose",
+    "frequency": 47
+  },
+  {
+    "key": "painful_walking",
+    "display": "Painful Walking",
+    "frequency": 45
+  },
+  {
+    "key": "family_history",
+    "display": "Family History",
+    "frequency": 44
+  },
+  {
+    "key": "burning_micturition",
+    "display": "Burning Micturition",
+    "frequency": 39
+  },
+  {
+    "key": "bloody_stool",
+    "display": "Bloody Stool",
+    "frequency": 37
+  },
+  {
+    "key": "irregular_sugar_level",
+    "display": "Irregular Sugar Level",
+    "frequency": 36
+  },
+  {
+    "key": "sinus_pressure",
+    "display": "Sinus Pressure",
+    "frequency": 36
+  },
+  {
+    "key": "irritation_in_anus",
+    "display": "Irritation In Anus",
+    "frequency": 35
+  },
+  {
+    "key": "knee_pain",
+    "display": "Knee Pain",
+    "frequency": 35
+  },
+  {
+    "key": "pain_behind_the_eyes",
+    "display": "Pain Behind The Eyes",
+    "frequency": 34
+  },
+  {
+    "key": "swelling_of_stomach",
+    "display": "Swelling Of Stomach",
+    "frequency": 34
+  },
+  {
+    "key": "visual_disturbances",
+    "display": "Visual Disturbances",
+    "frequency": 34
+  },
+  {
+    "key": "pain_during_bowel_movements",
+    "display": "Pain During Bowel Movements",
+    "frequency": 33
+  },
+  {
+    "key": "enlarged_thyroid",
+    "display": "Enlarged Thyroid",
+    "frequency": 33
+  },
+  {
+    "key": "loss_of_smell",
+    "display": "Loss Of Smell",
+    "frequency": 32
+  },
+  {
+    "key": "internal_itching",
+    "display": "Internal Itching",
+    "frequency": 32
+  },
+  {
+    "key": "increased_appetite",
+    "display": "Increased Appetite",
+    "frequency": 32
+  },
+  {
+    "key": "blood_in_sputum",
+    "display": "Blood In Sputum",
+    "frequency": 32
+  },
+  {
+    "key": "sunken_eyes",
+    "display": "Sunken Eyes",
+    "frequency": 31
+  },
+  {
+    "key": "congestion",
+    "display": "Congestion",
+    "frequency": 31
+  },
+  {
+    "key": "pain_in_anal_region",
+    "display": "Pain In Anal Region",
+    "frequency": 31
+  },
+  {
+    "key": "brittle_nails",
+    "display": "Brittle Nails",
+    "frequency": 31
+  },
+  {
+    "key": "redness_of_eyes",
+    "display": "Redness Of Eyes",
+    "frequency": 30
+  },
+  {
+    "key": "hip_joint_pain",
+    "display": "Hip Joint Pain",
+    "frequency": 30
+  },
+  {
+    "key": "spinning_movements",
+    "display": "Spinning Movements",
+    "frequency": 30
+  },
+  {
+    "key": "unsteadiness",
+    "display": "Unsteadiness",
+    "frequency": 30
+  },
+  {
+    "key": "passage_of_gases",
+    "display": "Passage Of Gases",
+    "frequency": 30
+  },
+  {
+    "key": "polyuria",
+    "display": "Polyuria",
+    "frequency": 30
+  },
+  {
+    "key": "stomach_bleeding",
+    "display": "Stomach Bleeding",
+    "frequency": 30
+  },
+  {
+    "key": "skin_peeling",
+    "display": "Skin Peeling",
+    "frequency": 30
+  },
+  {
+    "key": "silver_like_dusting",
+    "display": "Silver Like Dusting",
+    "frequency": 30
+  },
+  {
+    "key": "inflammatory_nails",
+    "display": "Inflammatory Nails",
+    "frequency": 30
+  },
+  {
+    "key": "blister",
+    "display": "Blister",
+    "frequency": 30
+  },
+  {
+    "key": "fluid_overload",
+    "display": "Fluid Overload",
+    "frequency": 29
+  },
+  {
+    "key": "throat_irritation",
+    "display": "Throat Irritation",
+    "frequency": 29
+  },
+  {
+    "key": "slurred_speech",
+    "display": "Slurred Speech",
+    "frequency": 29
+  },
+  {
+    "key": "toxic_look_typhos",
+    "display": "Toxic Look Typhos",
+    "frequency": 29
+  },
+  {
+    "key": "yellow_crust_ooze",
+    "display": "Yellow Crust Ooze",
+    "frequency": 29
+  },
+  {
+    "key": "muscle_wasting",
+    "display": "Muscle Wasting",
+    "frequency": 28
+  },
+  {
+    "key": "yellow_urine",
+    "display": "Yellow Urine",
+    "frequency": 28
+  },
+  {
+    "key": "swollen_extremeties",
+    "display": "Swollen Extremeties",
+    "frequency": 28
+  },
+  {
+    "key": "belly_pain",
+    "display": "Belly Pain",
+    "frequency": 28
+  },
+  {
+    "key": "coma",
+    "display": "Coma",
+    "frequency": 28
+  },
+  {
+    "key": "ulcers_on_tongue",
+    "display": "Ulcers On Tongue",
+    "frequency": 27
+  },
+  {
+    "key": "weight_gain",
+    "display": "Weight Gain",
+    "frequency": 27
+  },
+  {
+    "key": "patches_in_throat",
+    "display": "Patches In Throat",
+    "frequency": 27
+  },
+  {
+    "key": "extra_marital_contacts",
+    "display": "Extra Marital Contacts",
+    "frequency": 27
+  },
+  {
+    "key": "receiving_blood_transfusion",
+    "display": "Receiving Blood Transfusion",
+    "frequency": 27
+  },
+  {
+    "key": "history_of_alcohol_consumption",
+    "display": "History Of Alcohol Consumption",
+    "frequency": 27
+  },
+  {
+    "key": "nodal_skin_eruptions",
+    "display": "Nodal Skin Eruptions",
+    "frequency": 26
+  },
+  {
+    "key": "puffy_face_and_eyes",
+    "display": "Puffy Face And Eyes",
+    "frequency": 26
+  },
+  {
+    "key": "movement_stiffness",
+    "display": "Movement Stiffness",
+    "frequency": 26
+  },
+  {
+    "key": "red_sore_around_nose",
+    "display": "Red Sore Around Nose",
+    "frequency": 26
+  },
+  {
+    "key": "anxiety",
+    "display": "Anxiety",
+    "frequency": 25
+  },
+  {
+    "key": "cramps",
+    "display": "Cramps",
+    "frequency": 25
+  },
+  {
+    "key": "pus_filled_pimples",
+    "display": "Pus Filled Pimples",
+    "frequency": 25
+  },
+  {
+    "key": "blackheads",
+    "display": "Blackheads",
+    "frequency": 25
+  },
+  {
+    "key": "small_dents_in_nails",
+    "display": "Small Dents In Nails",
+    "frequency": 25
+  },
+  {
+    "key": "mucoid_sputum",
+    "display": "Mucoid Sputum",
+    "frequency": 24
+  },
+  {
+    "key": "palpitations",
+    "display": "Palpitations",
+    "frequency": 24
+  },
+  {
+    "key": "scurring",
+    "display": "Scurring",
+    "frequency": 24
+  },
+  {
+    "key": "dehydration",
+    "display": "Dehydration",
+    "frequency": 23
+  },
+  {
+    "key": "weakness_in_limbs",
+    "display": "Weakness In Limbs",
+    "frequency": 23
+  },
+  {
+    "key": "bruising",
+    "display": "Bruising",
+    "frequency": 23
+  },
+  {
+    "key": "weakness_of_one_body_side",
+    "display": "Weakness Of One Body Side",
+    "frequency": 23
+  },
+  {
+    "key": "watering_from_eyes",
+    "display": "Watering From Eyes",
+    "frequency": 23
+  },
+  {
+    "key": "shivering",
+    "display": "Shivering",
+    "frequency": 22
+  },
+  {
+    "key": "swollen_legs",
+    "display": "Swollen Legs",
+    "frequency": 22
+  },
+  {
+    "key": "altered_sensorium",
+    "display": "Altered Sensorium",
+    "frequency": 22
+  },
+  {
+    "key": "dischromic_patches",
+    "display": "Dischromic Patches",
+    "frequency": 22
+  },
+  {
+    "key": "lack_of_concentration",
+    "display": "Lack Of Concentration",
+    "frequency": 22
+  },
+  {
+    "key": "prominent_veins_on_calf",
+    "display": "Prominent Veins On Calf",
+    "frequency": 22
+  },
+  {
+    "key": "swollen_blood_vessels",
+    "display": "Swollen Blood Vessels",
+    "frequency": 21
+  },
+  {
+    "key": "foul_smell_of_urine",
+    "display": "Foul Smell Of Urine",
+    "frequency": 21
+  },
+  {
+    "key": "receiving_unsterile_injections",
+    "display": "Receiving Unsterile Injections",
+    "frequency": 20
+  },
+  {
+    "key": "bladder_discomfort",
+    "display": "Bladder Discomfort",
+    "frequency": 17
+  },
+  {
+    "key": "continuous_feel_of_urine",
+    "display": "Continuous Feel Of Urine",
+    "frequency": 16
+  },
+  {
+    "key": "acute_liver_failure",
+    "display": "Acute Liver Failure",
+    "frequency": 7
+  },
+  {
+    "key": "spotting_urination",
+    "display": "Spotting Urination",
+    "frequency": 3
+  },
+  {
+    "key": "drying_and_tingling_lips",
+    "display": "Drying And Tingling Lips",
+    "frequency": 3
+  },
+  {
+    "key": "distention_of_abdomen",
+    "display": "Distention Of Abdomen",
+    "frequency": 3
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Hepatitis D",
+    "sample_count": 34
+  },
+  {
+    "name": "Hyperthyroidism",
+    "sample_count": 34
+  },
+  {
+    "name": "Pneumonia",
+    "sample_count": 30
+  },
+  {
+    "name": "Dengue",
+    "sample_count": 30
+  },
+  {
+    "name": "Chicken pox",
+    "sample_count": 29
+  },
+  {
+    "name": "Diabetes",
+    "sample_count": 29
+  },
+  {
+    "name": "Dimorphic hemmorhoids(piles)",
+    "sample_count": 28
+  },
+  {
+    "name": "Tuberculosis",
+    "sample_count": 28
+  },
+  {
+    "name": "Migraine",
+    "sample_count": 27
+  },
+  {
+    "name": "Alcoholic hepatitis",
+    "sample_count": 27
+  },
+  {
+    "name": "Hepatitis E",
+    "sample_count": 26
+  },
+  {
+    "name": "Common Cold",
+    "sample_count": 26
+  },
+  {
+    "name": "Hypothyroidism",
+    "sample_count": 25
+  },
+  {
+    "name": "Drug Reaction",
+    "sample_count": 25
+  },
+  {
+    "name": "Peptic ulcer disease",
+    "sample_count": 25
+  },
+  {
+    "name": "Osteoarthritis",
+    "sample_count": 24
+  },
+  {
+    "name": "Psoriasis",
+    "sample_count": 24
+  },
+  {
+    "name": "Typhoid",
+    "sample_count": 24
+  },
+  {
+    "name": "(vertigo) Paroymsal Positional Vertigo",
+    "sample_count": 23
+  },
+  {
+    "name": "Impetigo",
+    "sample_count": 23
+  },
+  {
+    "name": "hepatitis A",
+    "sample_count": 23
+  },
+  {
+    "name": "Bronchial Asthma",
+    "sample_count": 22
+  },
+  {
+    "name": "Gastroenteritis",
+    "sample_count": 21
+  },
+  {
+    "name": "GERD",
+    "sample_count": 21
+  },
+  {
+    "name": "Arthritis",
+    "sample_count": 21
+  },
+  {
+    "name": "Malaria",
+    "sample_count": 21
+  },
+  {
+    "name": "Hepatitis C",
+    "sample_count": 21
+  },
+  {
+    "name": "Jaundice",
+    "sample_count": 21
+  },
+  {
+    "name": "Hypoglycemia",
+    "sample_count": 21
+  },
+  {
+    "name": "AIDS",
+    "sample_count": 20
+  },
+  {
+    "name": "Cervical spondylosis",
+    "sample_count": 19
+  },
+  {
+    "name": "Fungal infection",
+    "sample_count": 18
+  },
+  {
+    "name": "Allergy",
+    "sample_count": 18
+  },
+  {
+    "name": "Varicose veins",
+    "sample_count": 18
+  },
+  {
+    "name": "Hepatitis B",
+    "sample_count": 18
+  },
+  {
+    "name": "Hypertension",
+    "sample_count": 18
+  },
+  {
+    "name": "Paralysis (brain hemorrhage)",
+    "sample_count": 18
+  },
+  {
+    "name": "Chronic cholestasis",
+    "sample_count": 17
+  },
+  {
+    "name": "Heart attack",
+    "sample_count": 17
+  },
+  {
+    "name": "Acne",
+    "sample_count": 17
+  },
+  {
+    "name": "Urinary tract infection",
+    "sample_count": 15
+  }
+]

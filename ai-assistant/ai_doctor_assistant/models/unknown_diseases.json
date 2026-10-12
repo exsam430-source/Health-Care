@@ -1,0 +1,40 @@
+[
+  {
+    "symptoms": [
+      "headache",
+      "vomiting",
+      "fatigue",
+      "nausea",
+      "loss_of_appetite",
+      "abdominal_pain",
+      "yellowish_skin",
+      "joint_pain"
+    ],
+    "unknown_disease": "Hapitatus B",
+    "timestamp": "2026-06-28 18:28:22.312573",
+    "note": "New disease not in training data \u2014 needs manual addition"
+  },
+  {
+    "symptoms": [
+      "palpitations",
+      "sweating",
+      "excessive_hunger",
+      "cold_hands_and_feets"
+    ],
+    "unknown_disease": "Anxity",
+    "timestamp": "2026-06-29 14:51:10.782785",
+    "note": "New disease not in training data \u2014 needs manual addition"
+  },
+  {
+    "symptoms": [
+      "high_fever",
+      "skin_rash",
+      "yellow_crust_ooze",
+      "cough",
+      "breathlessness"
+    ],
+    "unknown_disease": "dengue",
+    "timestamp": "2026-08-08 13:19:19.258826",
+    "note": "New disease not in training data \u2014 needs manual addition"
+  }
+]
